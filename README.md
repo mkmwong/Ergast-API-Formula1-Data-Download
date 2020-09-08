@@ -1,4 +1,4 @@
-# Ergast-API-Formula1-Data-Download
+# Ergast API Formula1 Data Download
 This is a short script for downloading all available formula1 data, excluding laptimes, from [Ergast API](http://ergast.com/mrd/) into csv files.
 
 To use this , first clone this repository.
