@@ -94,21 +94,21 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 44,3,3,16,4,52,Finished,hamilton,mercedes,4920613,+13.858,1,45,1:30.983,kph,229.770,2019,17
 23,4,4,12,6,52,Finished,albon,red_bull,4966292,+59.537,8,36,1:32.775,kph,225.332,2019,17
 55,5,5,10,7,52,Finished,sainz,mclaren,4975856,+1:09.101,12,46,1:33.563,kph,223.434,2019,17
-16,6,6,8,2,51,+1 Lap,leclerc,ferrari,,,11,48,1:33.481,kph,223.630,2019,17
-10,7,7,6,9,51,+1 Lap,gasly,toro_rosso,,,2,48,1:31.611,kph,228.195,2019,17
-11,8,8,4,17,51,+1 Lap,perez,racing_point,,,17,43,1:35.321,kph,219.313,2019,17
-18,9,9,2,12,51,+1 Lap,stroll,racing_point,,,7,46,1:32.621,kph,225.706,2019,17
-26,10,10,1,14,51,+1 Lap,kvyat,toro_rosso,,,15,47,1:34.921,kph,220.237,2019,17
-4,11,11,0,8,51,+1 Lap,norris,mclaren,,,14,26,1:34.713,kph,220.721,2019,17
-7,12,12,0,13,51,+1 Lap,raikkonen,alfa,,,10,47,1:33.239,kph,224.210,2019,17
-8,13,13,0,10,51,+1 Lap,grosjean,haas,,,13,31,1:34.116,kph,222.121,2019,17
-99,14,14,0,11,51,+1 Lap,giovinazzi,alfa,,,9,50,1:33.190,kph,224.328,2019,17
-20,15,15,0,19,51,+1 Lap,kevin_magnussen,haas,,,16,18,1:34.988,kph,220.082,2019,17
-63,16,16,0,18,50,+2 Laps,russell,williams,,,6,51,1:32.369,kph,226.322,2019,17
-88,17,16,0,0,50,+2 Laps,kubica,williams,,,3,49,1:31.732,kph,227.894,2019,17
-33,18,R,0,5,14,Brakes,max_verstappen,red_bull,,,18,27,1:35.458,kph,218.998,2019,17
-3,19,D,0,16,51,Disqualified,ricciardo,renault,,,19,44,1:36.332,kph,217.012,2019,17
-27,20,D,0,15,51,Disqualified,hulkenberg,renault,,,20,10,1:37.249,kph,214.965,2019,17
+16,6,6,8,2,51,+1 Lap,leclerc,ferrari,,,2,48,1:31.611,kph,228.195,2019,17
+10,7,7,6,9,51,+1 Lap,gasly,toro_rosso,,,17,43,1:35.321,kph,219.313,2019,17
+11,8,8,4,17,51,+1 Lap,perez,racing_point,,,7,46,1:32.621,kph,225.706,2019,17
+18,9,9,2,12,51,+1 Lap,stroll,racing_point,,,14,26,1:34.713,kph,220.721,2019,17
+26,10,10,1,14,51,+1 Lap,kvyat,toro_rosso,,,10,47,1:33.239,kph,224.210,2019,17
+4,11,11,0,8,51,+1 Lap,norris,mclaren,,,13,31,1:34.116,kph,222.121,2019,17
+7,12,12,0,13,51,+1 Lap,raikkonen,alfa,,,9,50,1:33.190,kph,224.328,2019,17
+8,13,13,0,10,51,+1 Lap,grosjean,haas,,,16,18,1:34.988,kph,220.082,2019,17
+99,14,14,0,11,51,+1 Lap,giovinazzi,alfa,,,6,51,1:32.369,kph,226.322,2019,17
+20,15,15,0,19,51,+1 Lap,kevin_magnussen,haas,,,3,49,1:31.732,kph,227.894,2019,17
+63,16,16,0,18,50,+2 Laps,russell,williams,,,18,27,1:35.458,kph,218.998,2019,17
+88,17,16,0,0,50,+2 Laps,kubica,williams,,,19,44,1:36.332,kph,217.012,2019,17
+33,18,R,0,5,14,Brakes,max_verstappen,red_bull,,,20,10,1:37.249,kph,214.965,2019,17
+3,19,D,0,16,51,Disqualified,ricciardo,renault,,,11,48,1:33.481,kph,223.630,2019,17
+27,20,D,0,15,51,Disqualified,hulkenberg,renault,,,15,47,1:34.921,kph,220.237,2019,17
 15,1,1,10,2,55,Finished,vettel,red_bull,5643414,1:34:03.414,1,54,1:40.279,kph,199.387,2009,17
 14,2,2,8,3,55,Finished,webber,red_bull,5661271,+17.857,5,14,1:40.571,kph,198.808,2009,17
 22,3,3,6,5,55,Finished,button,brawn,5661881,+18.467,6,49,1:40.642,kph,198.668,2009,17
@@ -344,21 +344,21 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 10,3,3,1.33,5,94,+2 Laps,trintignant,ferrari,,,,,,,,1955,1
 10,3,3,1.33,5,94,+2 Laps,maglioli,ferrari,,,,,,,,1955,1
 10,3,3,1.33,5,94,+2 Laps,farina,ferrari,,,,,,,,1955,1
+8,4,4,1,10,94,+2 Laps,kling,mercedes,,,,,,,,1955,1
 8,4,4,1,10,94,+2 Laps,moss,mercedes,,,,,,,,1955,1
 8,4,4,1,10,94,+2 Laps,herrmann,mercedes,,,,,,,,1955,1
-8,4,4,1,10,94,+2 Laps,kling,mercedes,,,,,,,,1955,1
 18,5,5,2,16,91,+5 Laps,mieres,maserati,,,,,,,,1955,1
 28,6,6,0,7,88,+8 Laps,behra,maserati,,,,,,,,1955,1
 28,6,6,0,7,88,+8 Laps,schell,maserati,,,,,,,,1955,1
 22,7,7,0,18,83,+13 Laps,mantovani,maserati,,,,,,,,1955,1
 22,7,7,0,18,83,+13 Laps,schell,maserati,,,,,,,,1955,1
 22,7,7,0,18,83,+13 Laps,musso,maserati,,,,,,,,1955,1
+20,8,R,0,19,54,Engine,musso,maserati,,,,,,,,1955,1
 20,8,R,0,19,54,Engine,behra,maserati,,,,,,,,1955,1
 20,8,R,0,19,54,Engine,mantovani,maserati,,,,,,,,1955,1
-20,8,R,0,19,54,Engine,musso,maserati,,,,,,,,1955,1
-26,9,R,0,20,54,Fuel pressure,bucci,maserati,,,,,,,,1955,1
 26,9,R,0,20,54,Fuel pressure,schell,maserati,,,,,,,,1955,1
 26,9,R,0,20,54,Fuel pressure,menditeguy,maserati,,,,,,,,1955,1
+26,9,R,0,20,54,Fuel pressure,bucci,maserati,,,,,,,,1955,1
 42,10,R,0,17,38,Transmission,iglesias,gordini,,,,,,,,1955,1
 14,11,R,0,14,36,Engine,trintignant,ferrari,,,,,,,,1955,1
 36,12,R,0,12,35,Accident,villoresi,lancia,,,,,,,,1955,1
@@ -389,6 +389,26 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 20,20,R,0,22,36,Engine,rosset,tyrrell,,,,,,,,1998,15
 12,21,R,0,14,6,Transmission,trulli,prost,,,,,,,,1998,15
 16,22,R,0,17,6,Hydraulics,diniz,arrows,,,,,,,,1998,15
+44,1,1,26,1,66,Finished,hamilton,mercedes,5396828,1:29:56.828,1,63,1:18.750,kph,212.708,2020,12
+77,2,2,18,2,66,Finished,bottas,mercedes,5422420,+25.592,2,66,1:19.345,kph,211.113,2020,12
+33,3,3,15,3,66,Finished,max_verstappen,red_bull,5431336,+34.508,4,62,1:19.854,kph,209.767,2020,12
+16,4,4,12,4,66,Finished,leclerc,ferrari,5462140,+1:05.312,7,66,1:20.408,kph,208.322,2020,12
+10,5,5,10,9,65,+1 Lap,gasly,alphatauri,,,9,65,1:20.551,kph,207.952,2020,12
+55,6,6,8,7,65,+1 Lap,sainz,mclaren,,,6,65,1:20.268,kph,208.685,2020,12
+11,7,7,6,5,65,+1 Lap,perez,racing_point,,,11,49,1:20.802,kph,207.306,2020,12
+31,8,8,4,11,65,+1 Lap,ocon,renault,,,12,61,1:20.859,kph,207.160,2020,12
+3,9,9,2,10,65,+1 Lap,ricciardo,renault,,,14,61,1:20.906,kph,207.040,2020,12
+5,10,10,1,15,65,+1 Lap,vettel,ferrari,,,10,62,1:20.731,kph,207.489,2020,12
+7,11,11,0,16,65,+1 Lap,raikkonen,alfa,,,15,60,1:21.058,kph,206.652,2020,12
+23,12,12,0,6,65,+1 Lap,albon,red_bull,,,5,61,1:19.890,kph,209.673,2020,12
+4,13,13,0,8,65,+1 Lap,norris,mclaren,,,3,65,1:19.360,kph,211.073,2020,12
+63,14,14,0,14,65,+1 Lap,russell,williams,,,13,62,1:20.882,kph,207.101,2020,12
+99,15,15,0,17,65,+1 Lap,giovinazzi,alfa,,,20,46,1:21.893,kph,204.544,2020,12
+20,16,16,0,19,65,+1 Lap,kevin_magnussen,haas,,,16,63,1:21.460,kph,205.632,2020,12
+8,17,17,0,18,65,+1 Lap,grosjean,haas,,,17,59,1:21.664,kph,205.118,2020,12
+6,18,18,0,20,64,+2 Laps,latifi,williams,,,19,53,1:21.859,kph,204.629,2020,12
+26,19,19,0,13,64,+2 Laps,kvyat,alphatauri,,,8,59,1:20.449,kph,208.216,2020,12
+18,20,R,0,12,51,Collision damage,stroll,racing_point,,,18,45,1:21.694,kph,205.043,2020,12
 12,1,1,9,1,51,Finished,senna,mclaren,5606173,1:33:26.173,,,,,,1988,15
 11,2,2,6,2,51,Finished,prost,mclaren,5619536,+13.363,,,,,,1988,15
 20,3,3,4,10,51,Finished,boutsen,benetton,5642282,+36.109,,,,,,1988,15
@@ -737,8 +757,8 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 24,25,W,0,0,0,Withdrew,beaufort,porsche,,,,,,,,1963,1
 8,1,1,8,3,36,Finished,collins,ferrari,9600300,2:40:00.3,,,,,,1956,4
 6,2,2,6,8,36,Finished,frere,ferrari,9711600,+1:51.3,,,,,,1956,4
-34,3,3,3,9,36,Finished,moss,maserati,9796900,+3:16.6,,,,,,1956,4
 34,3,3,2,9,36,Finished,perdisa,maserati,9796900,+3:16.6,,,,,,1956,4
+34,3,3,3,9,36,Finished,moss,maserati,9796900,+3:16.6,,,,,,1956,4
 10,4,4,3,6,35,+1 Lap,schell,vanwall,,,,,,,,1956,4
 22,5,5,2,11,34,+2 Laps,villoresi,maserati,,,,,,,,1956,4
 20,6,6,0,16,33,+3 Laps,andre_pilette,ferrari,,,,,,,,1956,4
@@ -1339,8 +1359,8 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 36,14,14,0,26,16,+2 Laps,krause,bmw,,,,,,,,1953,7
 37,15,15,0,32,15,+3 Laps,klodwig,bmw,,,,,,,,1953,7
 22,16,16,0,29,14,+4 Laps,seidel,veritas,,,,,,,,1953,7
-4,17,R,1,6,15,Engine,ascari,ferrari,,,,,,,,1953,7
 4,17,R,0,6,15,Engine,villoresi,ferrari,,,,,,,,1953,7
+4,17,R,1,6,15,Engine,ascari,ferrari,,,,,,,,1953,7
 38,18,R,0,17,15,Engine,alan_brown,cooper,,,,,,,,1953,7
 8,19,R,0,8,13,Suspension,marimon,maserati,,,,,,,,1953,7
 35,20,R,0,24,12,Exhaust,barth,emw,,,,,,,,1953,7
@@ -1605,8 +1625,8 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 28,8,8,0,14,74,+6 Laps,wharton,maserati,,,,,,,,1954,9
 18,9,9,0,15,68,+12 Laps,bira,maserati,,,,,,,,1954,9
 12,10,R,0,10,58,Brakes,mantovani,maserati,,,,,,,,1954,9
-22,11,R,0,21,57,Engine,graffenried,maserati,,,,,,,,1954,9
 22,11,R,0,21,57,Engine,volonterio,maserati,,,,,,,,1954,9
+22,11,R,0,21,57,Engine,graffenried,maserati,,,,,,,,1954,9
 6,12,R,0,9,50,Injection,herrmann,mercedes,,,,,,,,1954,9
 40,13,R,0,8,47,Gearbox,trintignant,ferrari,,,,,,,,1954,9
 48,14,R,0,16,37,Engine,pollet,gordini,,,,,,,,1954,9
@@ -4535,8 +4555,8 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 2,22,R,0,2,0,Ignition,peterson,team_lotus,,,,,,,,1973,11
 16,1,1,8,1,80,Finished,fangio,mercedes,10067900,2:47:47.9,,,,,,1954,8
 40,2,2,6,7,79,+1 Lap,hawthorn,ferrari,,,,,,,,1954,8
-38,3,3,3,13,78,+2 Laps,gonzalez,ferrari,,,,,,,,1954,8
 38,3,3,2,13,78,+2 Laps,maglioli,ferrari,,,,,,,,1954,8
+38,3,3,3,13,78,+2 Laps,gonzalez,ferrari,,,,,,,,1954,8
 12,4,4,3,8,77,+3 Laps,herrmann,mercedes,,,,,,,,1954,8
 30,5,5,2,11,75,+5 Laps,trintignant,ferrari,,,,,,,,1954,8
 42,6,6,0,18,75,+5 Laps,wacker,gordini,,,,,,,,1954,8
@@ -4965,11 +4985,11 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 6,2,2,6,3,100,Finished,behra,maserati,10874200,+18.3,,,,,,1957,1
 8,3,3,4,8,99,+1 Lap,menditeguy,maserati,,,,,,,,1957,1
 22,4,4,3,9,98,+2 Laps,schell,maserati,,,,,,,,1957,1
-20,5,5,1,10,98,+2 Laps,portago,ferrari,,,,,,,,1957,1
 20,5,5,1,10,98,+2 Laps,gonzalez,ferrari,,,,,,,,1957,1
+20,5,5,1,10,98,+2 Laps,portago,ferrari,,,,,,,,1957,1
 18,6,6,0,11,98,+2 Laps,trips,ferrari,,,,,,,,1957,1
-18,6,6,0,11,98,+2 Laps,perdisa,ferrari,,,,,,,,1957,1
 18,6,6,0,11,98,+2 Laps,collins,ferrari,,,,,,,,1957,1
+18,6,6,0,11,98,+2 Laps,perdisa,ferrari,,,,,,,,1957,1
 24,7,7,0,13,95,+5 Laps,bonnier,maserati,,,,,,,,1957,1
 4,8,8,1,1,93,+7 Laps,moss,maserati,,,,,,,,1957,1
 26,9,9,0,12,91,+9 Laps,tomaso,ferrari,,,,,,,,1957,1
@@ -5655,6 +5675,26 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 22,20,R,0,21,13,Engine,nakano,minardi,,,,,,,,1998,14
 15,21,R,0,15,12,Spun off,herbert,sauber,,,,,,,,1998,14
 16,22,R,0,20,10,Spun off,diniz,arrows,,,,,,,,1998,14
+44,1,1,26,2,63,Finished,hamilton,mercedes,5312430,1:28:32.430,1,63,1:15.484,kph,234.121,2020,13
+77,2,2,18,1,63,Finished,bottas,mercedes,5318213,+5.783,2,63,1:15.902,kph,232.831,2020,13
+3,3,3,15,5,63,Finished,ricciardo,renault,5326750,+14.320,4,62,1:17.552,kph,227.878,2020,13
+26,4,4,12,8,63,Finished,kvyat,alphatauri,5327571,+15.141,6,62,1:17.666,kph,227.543,2020,13
+16,5,5,10,7,63,Finished,leclerc,ferrari,5331541,+19.111,12,62,1:18.173,kph,226.067,2020,13
+11,6,6,8,11,63,Finished,perez,racing_point,5332082,+19.652,9,49,1:18.084,kph,226.325,2020,13
+55,7,7,6,10,63,Finished,sainz,mclaren,5332660,+20.230,11,62,1:18.118,kph,226.226,2020,13
+4,8,8,4,9,63,Finished,norris,mclaren,5333561,+21.131,8,63,1:18.069,kph,226.368,2020,13
+7,9,9,2,18,63,Finished,raikkonen,alfa,5334654,+22.224,10,63,1:18.088,kph,226.313,2020,13
+99,10,10,1,20,63,Finished,giovinazzi,alfa,5338828,+26.398,15,61,1:18.794,kph,224.286,2020,13
+6,11,11,0,19,63,Finished,latifi,williams,5339565,+27.135,14,37,1:18.719,kph,224.499,2020,13
+5,12,12,0,14,63,Finished,vettel,ferrari,5340883,+28.453,7,44,1:17.767,kph,227.248,2020,13
+18,13,13,0,15,63,Finished,stroll,racing_point,5341593,+29.163,13,46,1:18.360,kph,225.528,2020,13
+8,14,14,0,16,63,Finished,grosjean,haas,5345365,+32.935,17,45,1:18.822,kph,224.206,2020,13
+23,15,15,0,6,63,Finished,albon,red_bull,5369714,+57.284,3,63,1:16.177,kph,231.991,2020,13
+63,16,R,0,13,51,Accident,russell,williams,,,16,43,1:18.811,kph,224.237,2020,13
+33,17,R,0,3,50,Puncture,max_verstappen,red_bull,,,5,44,1:17.637,kph,227.628,2020,13
+20,18,R,0,17,47,Illness,kevin_magnussen,haas,,,18,45,1:19.273,kph,222.930,2020,13
+31,19,R,0,12,27,Gearbox,ocon,renault,,,19,22,1:19.606,kph,221.998,2020,13
+10,20,R,0,4,8,Water pressure,gasly,alphatauri,,,20,5,1:20.403,kph,219.797,2020,13
 11,1,1,9,2,72,Finished,prost,mclaren,6523851,1:48:43.851,,,,,,1988,14
 5,2,2,6,3,72,Finished,mansell,williams,6550083,+26.232,,,,,,1988,14
 19,3,3,4,5,72,Finished,nannini,benetton,6559297,+35.446,,,,,,1988,14
@@ -7694,8 +7734,8 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 26,1,1,9,1,36,Finished,fangio,maserati,9882400,2:44:42.4,,,,,,1954,3
 8,2,2,6,6,36,Finished,trintignant,ferrari,9906600,+24.2,,,,,,1954,3
 22,3,3,4,9,35,+1 Lap,moss,maserati,,,,,,,,1954,3
-10,4,4,1.5,5,35,+1 Lap,gonzalez,ferrari,,,,,,,,1954,3
 10,4,4,1.5,5,35,+1 Lap,hawthorn,ferrari,,,,,,,,1954,3
+10,4,4,1.5,5,35,+1 Lap,gonzalez,ferrari,,,,,,,,1954,3
 18,5,5,2,8,35,+1 Lap,andre_pilette,gordini,,,,,,,,1954,3
 20,6,6,0,13,35,+1 Lap,bira,maserati,,,,,,,,1954,3
 30,7,7,0,11,34,+2 Laps,mantovani,maserati,,,,,,,,1954,3
@@ -8215,6 +8255,26 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 14,18,R,0,18,21,ERS,alonso,mclaren,,,17,17,1:48.460,kph,183.983,2015,2
 9,19,R,0,9,3,Spun off,ericsson,sauber,,,18,3,1:48.760,kph,183.475,2015,2
 28,20,W,0,0,0,Fuel system,stevens,manor,,,,,,,,2015,2
+44,1,1,25,6,58,Finished,hamilton,mercedes,6139313,1:42:19.313,6,56,1:39.413,kph,193.302,2020,14
+11,2,2,18,3,58,Finished,perez,racing_point,6170946,+31.633,12,50,1:40.392,kph,191.417,2020,14
+5,3,3,15,11,58,Finished,vettel,ferrari,6171273,+31.960,8,53,1:39.662,kph,192.819,2020,14
+16,4,4,12,12,58,Finished,leclerc,ferrari,6173171,+33.858,11,47,1:39.961,kph,192.242,2020,14
+55,5,5,10,15,58,Finished,sainz,mclaren,6173676,+34.363,4,56,1:38.754,kph,194.592,2020,14
+33,6,6,8,2,58,Finished,max_verstappen,red_bull,6184186,+44.873,3,53,1:38.431,kph,195.231,2020,14
+23,7,7,6,4,58,Finished,albon,red_bull,6185797,+46.484,5,54,1:39.099,kph,193.915,2020,14
+4,8,8,5,14,58,Finished,norris,mclaren,6200572,+1:01.259,1,58,1:36.806,kph,198.508,2020,14
+18,9,9,2,1,58,Finished,stroll,racing_point,6211666,+1:12.353,10,55,1:39.921,kph,192.319,2020,14
+3,10,10,1,5,58,Finished,ricciardo,renault,6234773,+1:35.460,13,54,1:40.677,kph,190.875,2020,14
+31,11,11,0,7,57,+1 Lap,ocon,renault,,,16,55,1:41.006,kph,190.254,2020,14
+26,12,12,0,16,57,+1 Lap,kvyat,alphatauri,,,17,53,1:41.019,kph,190.229,2020,14
+10,13,13,0,19,57,+1 Lap,gasly,alphatauri,,,7,53,1:39.586,kph,192.966,2020,14
+77,14,14,0,9,57,+1 Lap,bottas,mercedes,,,2,57,1:38.193,kph,195.704,2020,14
+7,15,15,0,8,57,+1 Lap,raikkonen,alfa,,,9,57,1:39.743,kph,192.663,2020,14
+63,16,16,0,0,57,+1 Lap,russell,williams,,,14,51,1:40.814,kph,190.616,2020,14
+20,17,17,0,13,55,Withdrew,kevin_magnussen,haas,,,15,45,1:40.948,kph,190.363,2020,14
+8,18,R,0,17,49,Collision damage,grosjean,haas,,,18,38,1:43.281,kph,186.063,2020,14
+6,19,R,0,0,39,Collision damage,latifi,williams,,,19,32,1:43.495,kph,185.678,2020,14
+99,20,R,0,10,11,Gearbox,giovinazzi,alfa,,,20,11,1:51.122,kph,172.934,2020,14
 9,1,1,10,3,44,Finished,damon_hill,jordan,6227407,1:43:47.407,,,,,,1998,13
 10,2,2,6,8,44,Finished,ralf_schumacher,jordan,6228339,+0.932,,,,,,1998,13
 14,3,3,4,10,44,Finished,alesi,sauber,6234647,+7.240,,,,,,1998,13
@@ -8262,6 +8322,26 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 22,23,R,0,12,22,Overheating,amon,tecno,,,,,,,,1973,6
 19,24,R,0,8,15,Brakes,regazzoni,brm,,,,,,,,1973,6
 15,25,R,0,20,3,Engine,beuttler,march,,,,,,,,1973,6
+44,1,1,25,1,44,Finished,hamilton,mercedes,5048761,1:24:08.761,2,28,1:47.758,kph,233.990,2020,7
+77,2,2,18,2,44,Finished,bottas,mercedes,5057209,+8.448,5,27,1:47.983,kph,233.503,2020,7
+33,3,3,15,3,44,Finished,max_verstappen,red_bull,5064216,+15.455,8,27,1:48.305,kph,232.809,2020,7
+3,4,4,13,4,44,Finished,ricciardo,renault,5067638,+18.877,1,44,1:47.483,kph,234.589,2020,7
+31,5,5,10,6,44,Finished,ocon,renault,5089411,+40.650,10,44,1:48.540,kph,232.305,2020,7
+23,6,6,8,5,44,Finished,albon,red_bull,5091473,+42.712,12,27,1:48.736,kph,231.886,2020,7
+4,7,7,6,10,44,Finished,norris,mclaren,5092535,+43.774,11,39,1:48.552,kph,232.279,2020,7
+10,8,8,4,12,44,Finished,gasly,alphatauri,5096132,+47.371,3,29,1:47.839,kph,233.815,2020,7
+18,9,9,2,9,44,Finished,stroll,racing_point,5101364,+52.603,13,34,1:49.136,kph,231.036,2020,7
+11,10,10,1,8,44,Finished,perez,racing_point,5101940,+53.179,9,20,1:48.389,kph,232.628,2020,7
+26,11,11,0,11,44,Finished,kvyat,alphatauri,5118961,+1:10.200,15,28,1:49.832,kph,229.572,2020,7
+7,12,12,0,16,44,Finished,raikkonen,alfa,5120265,+1:11.504,14,28,1:49.822,kph,229.593,2020,7
+5,13,13,0,14,44,Finished,vettel,ferrari,5121655,+1:12.894,16,31,1:49.958,kph,229.309,2020,7
+16,14,14,0,13,44,Finished,leclerc,ferrari,5123681,+1:14.920,4,26,1:47.840,kph,233.813,2020,7
+8,15,15,0,17,44,Finished,grosjean,haas,5125554,+1:16.793,17,28,1:50.018,kph,229.184,2020,7
+6,16,16,0,19,44,Finished,latifi,williams,5126556,+1:17.795,6,32,1:48.048,kph,233.362,2020,7
+20,17,17,0,20,44,Finished,kevin_magnussen,haas,5134301,+1:25.540,7,37,1:48.083,kph,233.287,2020,7
+99,18,R,0,18,9,Accident,giovinazzi,alfa,,,19,9,1:51.793,kph,225.545,2020,7
+63,19,R,0,15,9,Debris,russell,williams,,,18,5,1:51.754,kph,225.624,2020,7
+55,20,W,0,7,0,Exhaust,sainz,mclaren,,,,,,,,2020,7
 27,1,1,9,8,67,Finished,alboreto,ferrari,5731337,1:35:31.337,,,,,,1985,9
 2,2,2,6,3,67,Finished,prost,mclaren,5742998,+11.661,,,,,,1985,9
 26,3,3,4,13,67,Finished,laffite,ligier,5782491,+51.154,,,,,,1985,9
@@ -9163,8 +9243,8 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 16,4,4,3,6,96,+1 Lap,hawthorn,ferrari,,,,,,,,1953,1
 8,5,5,2,9,96,+1 Lap,galvez,maserati,,,,,,,,1953,1
 30,6,6,0,11,94,+3 Laps,behra,gordini,,,,,,,,1953,1
-28,7,7,0,7,91,+6 Laps,schell,gordini,,,,,,,,1953,1
 28,7,7,0,7,91,+6 Laps,trintignant,gordini,,,,,,,,1953,1
+28,7,7,0,7,91,+6 Laps,schell,gordini,,,,,,,,1953,1
 22,8,8,0,16,90,+7 Laps,john_barber,cooper,,,,,,,,1953,1
 20,9,9,0,12,87,+10 Laps,alan_brown,cooper,,,,,,,,1953,1
 26,10,R,0,8,67,Wheel,manzon,gordini,,,,,,,,1953,1
@@ -9566,8 +9646,8 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 38,12,12,0,16,63,+14 Laps,comotti,ferrari,,,,,,,,1952,4
 6,13,R,0,7,56,Axle,bira,gordini,,,,,,,,1952,4
 42,14,R,0,15,51,Ignition,hawthorn,cooper,,,,,,,,1952,4
-16,15,R,0,12,34,Brakes,schell,maserati,,,,,,,,1952,4
 16,15,R,0,12,34,Brakes,graffenried,maserati,,,,,,,,1952,4
+16,15,R,0,12,34,Brakes,schell,maserati,,,,,,,,1952,4
 26,16,R,0,13,17,Clutch,whitehead,alta,,,,,,,,1952,4
 14,17,R,0,9,17,Engine,rosier,ferrari,,,,,,,,1952,4
 32,18,R,0,20,15,Engine,claes,simca,,,,,,,,1952,4
@@ -10066,6 +10146,26 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 23,22,22,0,20,53,+5 Laps,liuzzi,hrt,,,22,41,1:34.699,kph,202.925,2011,4
 15,23,R,0,13,44,Retired,resta,force_india,,,18,40,1:32.519,kph,207.706,2011,4
 24,24,W,0,21,0,Gearbox,glock,virgin,,,,,,,,2011,4
+44,1,1,25,1,66,Finished,hamilton,mercedes,5505279,1:31:45.279,2,63,1:19.822,kph,209.942,2020,6
+33,2,2,18,3,66,Finished,max_verstappen,red_bull,5529456,+24.177,4,53,1:21.477,kph,205.677,2020,6
+77,3,3,16,2,66,Finished,bottas,mercedes,5550031,+44.752,1,66,1:18.183,kph,214.343,2020,6
+18,4,4,12,5,65,+1 Lap,stroll,racing_point,,,8,56,1:22.024,kph,204.306,2020,6
+11,5,5,10,4,65,+1 Lap,perez,racing_point,,,16,58,1:22.515,kph,203.090,2020,6
+55,6,6,8,7,65,+1 Lap,sainz,mclaren,,,5,59,1:21.771,kph,204.938,2020,6
+5,7,7,6,11,65,+1 Lap,vettel,ferrari,,,18,48,1:22.707,kph,202.618,2020,6
+23,8,8,4,6,65,+1 Lap,albon,red_bull,,,11,41,1:22.194,kph,203.883,2020,6
+10,9,9,2,10,65,+1 Lap,gasly,alphatauri,,,17,44,1:22.543,kph,203.021,2020,6
+4,10,10,1,8,65,+1 Lap,norris,mclaren,,,13,56,1:22.392,kph,203.393,2020,6
+3,11,11,0,13,65,+1 Lap,ricciardo,renault,,,14,51,1:22.464,kph,203.215,2020,6
+26,12,12,0,12,65,+1 Lap,kvyat,alphatauri,,,12,47,1:22.336,kph,203.531,2020,6
+31,13,13,0,15,65,+1 Lap,ocon,renault,,,10,65,1:22.174,kph,203.933,2020,6
+7,14,14,0,14,65,+1 Lap,raikkonen,alfa,,,7,47,1:21.888,kph,204.645,2020,6
+20,15,15,0,16,65,+1 Lap,kevin_magnussen,haas,,,19,64,1:23.474,kph,200.757,2020,6
+99,16,16,0,20,65,+1 Lap,giovinazzi,alfa,,,6,47,1:21.801,kph,204.863,2020,6
+63,17,17,0,18,65,+1 Lap,russell,williams,,,15,37,1:22.503,kph,203.119,2020,6
+6,18,18,0,19,64,+2 Laps,latifi,williams,,,9,60,1:22.030,kph,204.291,2020,6
+8,19,19,0,17,64,+2 Laps,grosjean,haas,,,3,64,1:20.409,kph,208.409,2020,6
+16,20,R,0,9,38,Electronics,leclerc,ferrari,,,20,35,1:23.968,kph,199.576,2020,6
 7,1,1,9,6,80,Finished,hulme,mclaren,7006049,1:56:46.049,,,,,,1973,7
 2,2,2,6,1,80,Finished,peterson,team_lotus,7010088,+4.039,,,,,,1973,7
 6,3,3,4,2,80,Finished,cevert,tyrrell,7020716,+14.667,,,,,,1973,7
@@ -10170,8 +10270,8 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 14,3,3,4,4,90,Finished,kling,mercedes,11313000,+1:11.8,,,,,,1955,6
 50,4,4,3,5,89,+1 Lap,taruffi,mercedes,,,,,,,,1955,6
 4,5,5,2,9,89,+1 Lap,musso,maserati,,,,,,,,1955,6
-16,6,6,0,12,87,+3 Laps,hawthorn,ferrari,,,,,,,,1955,6
 16,6,6,0,12,87,+3 Laps,castellotti,ferrari,,,,,,,,1955,6
+16,6,6,0,12,87,+3 Laps,hawthorn,ferrari,,,,,,,,1955,6
 26,7,7,0,23,81,+9 Laps,sparken,gordini,,,,,,,,1955,6
 46,8,8,0,16,79,+11 Laps,macklin,maserati,,,,,,,,1955,6
 28,9,9,0,15,72,+18 Laps,schell,vanwall,,,,,,,,1955,6
@@ -10243,6 +10343,26 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 13,18,R,0,11,49,Brakes,maldonado,lotus_f1,,,11,37,1:43.686,kph,189.259,2015,3
 26,19,R,0,12,15,Power Unit,kvyat,red_bull,,,20,13,1:46.291,kph,184.621,2015,3
 27,20,R,0,16,9,Gearbox,hulkenberg,force_india,,,18,6,1:45.844,kph,185.401,2015,3
+44,1,1,25,1,57,Finished,hamilton,mercedes,10787515,2:59:47.515,3,38,1:32.864,kph,209.803,2020,15
+33,2,2,19,3,57,Finished,max_verstappen,red_bull,10788769,+1.254,1,48,1:32.014,kph,211.741,2020,15
+23,3,3,15,4,57,Finished,albon,red_bull,10795520,+8.005,10,41,1:33.684,kph,207.967,2020,15
+4,4,4,12,9,57,Finished,norris,mclaren,10798852,+11.337,7,53,1:33.588,kph,208.180,2020,15
+55,5,5,10,15,57,Finished,sainz,mclaren,10799302,+11.787,5,46,1:33.411,kph,208.575,2020,15
+10,6,6,8,8,57,Finished,gasly,alphatauri,10799457,+11.942,16,48,1:34.817,kph,205.482,2020,15
+3,7,7,6,6,57,Finished,ricciardo,renault,10806883,+19.368,2,38,1:32.827,kph,209.887,2020,15
+77,8,8,4,2,57,Finished,bottas,mercedes,10807195,+19.680,4,28,1:33.352,kph,208.706,2020,15
+31,9,9,2,7,57,Finished,ocon,renault,10810318,+22.803,13,37,1:34.354,kph,206.490,2020,15
+16,10,10,1,12,56,+1 Lap,leclerc,ferrari,,,8,44,1:33.625,kph,208.098,2020,15
+26,11,11,0,10,56,+1 Lap,kvyat,alphatauri,,,12,35,1:34.141,kph,206.957,2020,15
+63,12,12,0,14,56,+1 Lap,russell,williams,,,17,47,1:35.042,kph,204.995,2020,15
+5,13,13,0,11,56,+1 Lap,vettel,ferrari,,,11,41,1:33.861,kph,207.575,2020,15
+6,14,14,0,20,56,+1 Lap,latifi,williams,,,15,39,1:34.591,kph,205.973,2020,15
+7,15,15,0,17,56,+1 Lap,raikkonen,alfa,,,6,43,1:33.573,kph,208.213,2020,15
+99,16,16,0,16,56,+1 Lap,giovinazzi,alfa,,,14,22,1:34.536,kph,206.092,2020,15
+20,17,17,0,18,56,+1 Lap,kevin_magnussen,haas,,,18,29,1:35.241,kph,204.567,2020,15
+11,18,18,0,5,53,Engine,perez,racing_point,,,9,40,1:33.629,kph,208.089,2020,15
+18,19,R,0,13,2,Collision,stroll,racing_point,,,,,,,,2020,15
+8,20,R,0,19,0,Collision,grosjean,haas,,,,,,,,2020,15
 3,1,1,10,3,77,Finished,michael_schumacher,ferrari,6326400,1:45:26.4,,,,,,1998,12
 7,2,2,6,2,77,Finished,coulthard,mclaren,6335833,+9.433,,,,,,1998,12
 1,3,3,4,6,77,Finished,villeneuve,williams,6370844,+44.444,,,,,,1998,12
@@ -10619,32 +10739,32 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 14,1,1,8,19,200,Finished,vukovich,kurtis_kraft,13757270,3:49:17.27,,,,,,1954,2
 9,2,2,6,3,200,Finished,bryan,kuzma,13827220,+1:09.95,,,,,,1954,2
 2,3,3,5,1,200,Finished,mcgrath,kurtis_kraft,13837000,+1:19.73,,,,,,1954,2
-34,4,4,1.5,11,200,Finished,darter,kurtis_kraft,13929950,+2:52.68,,,,,,1954,2
 34,4,4,1.5,11,200,Finished,ruttman,kurtis_kraft,13929950,+2:52.68,,,,,,1954,2
+34,4,4,1.5,11,200,Finished,darter,kurtis_kraft,13929950,+2:52.68,,,,,,1954,2
 73,5,5,2,14,200,Finished,nazaruk,kurtis_kraft,13961820,+3:24.55,,,,,,1954,2
 77,6,6,0,24,200,Finished,agabashian,kurtis_kraft,13984820,+3:47.55,,,,,,1954,2
 7,7,7,0,6,200,Finished,freeland,phillips,14010620,+4:13.35,,,,,,1954,2
-5,8,8,0,32,200,Finished,paul_russo,kurtis_kraft,14058440,+5:01.17,,,,,,1954,2
 5,8,8,0,32,200,Finished,hoyt,kurtis_kraft,14058440,+5:01.17,,,,,,1954,2
+5,8,8,0,32,200,Finished,paul_russo,kurtis_kraft,14058440,+5:01.17,,,,,,1954,2
 28,9,9,0,25,200,Finished,crockett,kurtis_kraft,14184510,+7:07.24,,,,,,1954,2
 24,10,10,0,13,200,Finished,niday,stevens,14184960,+7:07.69,,,,,,1954,2
-45,11,11,0,27,200,Finished,linden,kurtis_kraft,14259460,+8:22.19,,,,,,1954,2
-45,11,11,0,27,200,Finished,cross,kurtis_kraft,14259460,+8:22.19,,,,,,1954,2
 45,11,11,0,27,200,Finished,davies,kurtis_kraft,14259460,+8:22.19,,,,,,1954,2
 45,11,11,0,27,200,Finished,parsons,kurtis_kraft,14259460,+8:22.19,,,,,,1954,2
+45,11,11,0,27,200,Finished,cross,kurtis_kraft,14259460,+8:22.19,,,,,,1954,2
 45,11,11,0,27,200,Finished,hanks,kurtis_kraft,14259460,+8:22.19,,,,,,1954,2
-98,12,12,0,5,199,+1 Lap,stevenson,kuzma,,,,,,,,1954,2
+45,11,11,0,27,200,Finished,linden,kurtis_kraft,14259460,+8:22.19,,,,,,1954,2
 98,12,12,0,5,199,+1 Lap,faulkner,kuzma,,,,,,,,1954,2
+98,12,12,0,5,199,+1 Lap,stevenson,kuzma,,,,,,,,1954,2
 88,13,13,0,22,197,+3 Laps,ayulo,kuzma,,,,,,,,1954,2
 17,14,14,0,9,197,+3 Laps,sweikert,kurtis_kraft,,,,,,,,1954,2
 16,15,15,0,8,196,+4 Laps,jackson,kurtis_kraft,,,,,,,,1954,2
-16,15,15,0,8,196,+4 Laps,darter,kurtis_kraft,,,,,,,,1954,2
 16,15,15,0,8,196,+4 Laps,bettenhausen,kurtis_kraft,,,,,,,,1954,2
+16,15,15,0,8,196,+4 Laps,darter,kurtis_kraft,,,,,,,,1954,2
 16,15,15,0,8,196,+4 Laps,teague,kurtis_kraft,,,,,,,,1954,2
 32,16,16,0,20,194,+6 Laps,mccoy,kurtis_kraft,,,,,,,,1954,2
 25,17,17,0,7,194,+6 Laps,reece,pankratz,,,,,,,,1954,2
-27,18,18,0,31,193,+7 Laps,bob_scott,stevens,,,,,,,,1954,2
 27,18,18,0,31,193,+7 Laps,elisian,stevens,,,,,,,,1954,2
+27,18,18,0,31,193,+7 Laps,bob_scott,stevens,,,,,,,,1954,2
 71,19,19,0,33,193,+7 Laps,armi,kurtis_kraft,,,,,,,,1954,2
 9,1,1,4.5,8,29,Finished,brambilla,march,3476690,0:57:56.69,,,,,,1975,12
 24,2,2,3,2,29,Finished,hunt,hesketh,3503720,+27.03,,,,,,1975,12
@@ -12617,8 +12737,8 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 32,8,8,0,9,82,+5 Laps,musso,ferrari,,,,,,,,1957,8
 10,9,9,0,15,81,+6 Laps,godia,maserati,,,,,,,,1957,8
 14,10,10,0,18,78,+9 Laps,gould,maserati,,,,,,,,1957,8
-28,11,11,0,16,72,+15 Laps,simon,maserati,,,,,,,,1957,8
 28,11,11,0,16,72,+15 Laps,volonterio,maserati,,,,,,,,1957,8
+28,11,11,0,16,72,+15 Laps,simon,maserati,,,,,,,,1957,8
 30,12,R,0,7,62,Engine,collins,ferrari,,,,,,,,1957,8
 20,13,R,0,1,49,Engine,lewis-evans,vanwall,,,,,,,,1957,8
 6,14,R,0,5,49,Overheating,behra,maserati,,,,,,,,1957,8
@@ -13050,9 +13170,9 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 11,17,17,0,16,69,Brakes,perez,force_india,,,10,66,1:10.120,kph,222.099,2016,9
 14,18,18,0,14,64,Battery,alonso,mclaren,,,20,44,1:11.020,kph,219.284,2016,9
 27,19,19,0,2,64,Brakes,hulkenberg,force_india,,,14,53,1:10.309,kph,221.502,2016,9
-19,20,20,0,10,63,Brakes,massa,williams,,,7,59,1:09.899,kph,222.801,2016,9
+19,20,20,0,0,63,Brakes,massa,williams,,,7,59,1:09.899,kph,222.801,2016,9
 5,21,R,0,9,26,Tyre,vettel,ferrari,,,21,10,1:11.441,kph,217.992,2016,9
-26,22,R,0,22,2,Retired,kvyat,toro_rosso,,,22,2,1:18.302,kph,198.891,2016,9
+26,22,R,0,0,2,Retired,kvyat,toro_rosso,,,22,2,1:18.302,kph,198.891,2016,9
 44,1,1,25,1,53,Finished,hamilton,mercedes,5411385,1:30:11.385,5,49,1:34.509,kph,222.531,2018,8
 33,2,2,18,4,53,Finished,max_verstappen,red_bull,5418475,+7.090,2,47,1:34.275,kph,223.083,2018,8
 7,3,3,15,6,53,Finished,raikkonen,ferrari,5437273,+25.888,3,48,1:34.398,kph,222.792,2018,8
@@ -13418,6 +13538,26 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 26,23,R,0,23,16,Overheating,pescarolo,iso_marlboro,,,,,,,,1973,8
 14,24,R,0,7,7,Halfshaft,jarier,march,,,,,,,,1973,8
 17,25,R,0,21,0,Clutch,oliver,shadow,,,,,,,,1973,8
+44,1,1,26,1,59,Finished,hamilton,mercedes,8375060,2:19:35.060,1,58,1:18.833,kph,239.518,2020,9
+77,2,2,18,2,59,Finished,bottas,mercedes,8379940,+4.880,2,53,1:19.432,kph,237.712,2020,9
+23,3,3,15,4,59,Finished,albon,red_bull,8383124,+8.064,3,51,1:20.039,kph,235.909,2020,9
+3,4,4,12,8,59,Finished,ricciardo,renault,8385477,+10.417,4,57,1:20.426,kph,234.774,2020,9
+11,5,5,10,7,59,Finished,perez,racing_point,8390710,+15.650,5,59,1:20.632,kph,234.175,2020,9
+4,6,6,8,11,59,Finished,norris,mclaren,8393943,+18.883,7,59,1:21.198,kph,232.542,2020,9
+26,7,7,6,12,59,Finished,kvyat,alphatauri,8396816,+21.756,10,51,1:21.458,kph,231.800,2020,9
+16,8,8,4,5,59,Finished,leclerc,ferrari,8403405,+28.345,9,50,1:21.229,kph,232.453,2020,9
+7,9,9,2,13,59,Finished,raikkonen,alfa,8404830,+29.770,6,59,1:21.164,kph,232.640,2020,9
+5,10,10,1,14,59,Finished,vettel,ferrari,8405043,+29.983,8,59,1:21.202,kph,232.531,2020,9
+63,11,11,0,18,59,Finished,russell,williams,8407464,+32.404,11,58,1:21.645,kph,231.269,2020,9
+8,12,12,0,15,59,Finished,grosjean,haas,8417096,+42.036,13,59,1:22.263,kph,229.532,2020,9
+18,13,R,0,6,42,Puncture,stroll,racing_point,,,12,42,1:22.068,kph,230.077,2020,9
+31,14,R,0,10,7,Brakes,ocon,renault,,,15,6,2:11.793,kph,143.270,2020,9
+6,15,R,0,19,6,Collision,latifi,williams,,,14,6,2:11.365,kph,143.736,2020,9
+20,16,R,0,20,5,Collision,kevin_magnussen,haas,,,17,4,2:13.812,kph,141.108,2020,9
+99,17,R,0,17,5,Collision,giovinazzi,alfa,,,16,4,2:13.809,kph,141.111,2020,9
+55,18,R,0,9,5,Collision,sainz,mclaren,,,18,5,2:14.103,kph,140.802,2020,9
+33,19,R,0,3,0,Collision,max_verstappen,red_bull,,,,,,,,2020,9
+10,20,R,0,16,0,Collision,gasly,alphatauri,,,,,,,,2020,9
 20,1,1,9,4,68,Finished,berger,benetton,5598700,1:33:18.700,,,,,,1986,15
 1,2,2,6,6,68,Finished,prost,mclaren,5624138,+25.438,,,,,,1986,15
 12,3,3,4,1,68,Finished,senna,team_lotus,5651213,+52.513,,,,,,1986,15
@@ -13850,8 +13990,8 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 23,20,W,0,0,0,Withdrew,ken_miles,lotus-climax,,,,,,,,1961,8
 2,1,1,8,1,90,Finished,ascari,ferrari,10415800,2:53:35.8,,,,,,1953,3
 6,2,2,6,3,90,Finished,farina,ferrari,10426200,+10.4,,,,,,1953,3
-16,3,3,2,13,89,+1 Lap,bonetto,maserati,,,,,,,,1953,3
 16,3,3,2,13,89,+1 Lap,gonzalez,maserati,,,,,,,,1953,3
+16,3,3,2,13,89,+1 Lap,bonetto,maserati,,,,,,,,1953,3
 8,4,4,3,6,89,+1 Lap,hawthorn,ferrari,,,,,,,,1953,3
 18,5,5,2,7,88,+2 Laps,graffenried,maserati,,,,,,,,1953,3
 24,6,6,0,12,87,+3 Laps,trintignant,gordini,,,,,,,,1953,3
@@ -14755,6 +14895,26 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 14,14,R,0,6,9,Gearbox,surtees,brm,,,,,,,,1969,3
 5,15,R,0,8,9,Accident,jack_brabham,brabham-ford,,,,,,,,1969,3
 15,16,R,0,13,0,Accident,oliver,brm,,,,,,,,1969,3
+33,1,1,25,4,52,Finished,max_verstappen,red_bull,4781993,1:19:41.993,2,46,1:29.465,kph,237.049,2020,5
+44,2,2,19,2,52,Finished,hamilton,mercedes,4793319,+11.326,1,43,1:28.451,kph,239.766,2020,5
+77,3,3,15,1,52,Finished,bottas,mercedes,4801224,+19.231,4,44,1:29.765,kph,236.256,2020,5
+16,4,4,12,8,52,Finished,leclerc,ferrari,4811282,+29.289,8,39,1:30.552,kph,234.203,2020,5
+23,5,5,10,9,52,Finished,albon,red_bull,4821139,+39.146,3,46,1:29.477,kph,237.017,2020,5
+18,6,6,8,6,52,Finished,stroll,racing_point,4824531,+42.538,15,45,1:30.877,kph,233.365,2020,5
+27,7,7,6,3,52,Finished,hulkenberg,racing_point,4837944,+55.951,6,52,1:30.087,kph,235.412,2020,5
+31,8,8,4,14,52,Finished,ocon,renault,4846766,+1:04.773,10,50,1:30.575,kph,234.144,2020,5
+4,9,9,2,10,52,Finished,norris,mclaren,4847537,+1:05.544,11,49,1:30.698,kph,233.826,2020,5
+26,10,10,1,16,52,Finished,kvyat,alphatauri,4851662,+1:09.669,12,52,1:30.738,kph,233.723,2020,5
+10,11,11,0,7,52,Finished,gasly,alphatauri,4852635,+1:10.642,7,52,1:30.092,kph,235.399,2020,5
+5,12,12,0,11,52,Finished,vettel,ferrari,4855363,+1:13.370,13,49,1:30.785,kph,233.602,2020,5
+55,13,13,0,12,52,Finished,sainz,mclaren,4856063,+1:14.070,9,49,1:30.556,kph,234.193,2020,5
+3,14,14,0,5,51,+1 Lap,ricciardo,renault,,,16,39,1:31.168,kph,232.621,2020,5
+7,15,15,0,20,51,+1 Lap,raikkonen,alfa,,,18,30,1:31.756,kph,231.130,2020,5
+8,16,16,0,13,51,+1 Lap,grosjean,haas,,,14,51,1:30.793,kph,233.581,2020,5
+99,17,17,0,19,51,+1 Lap,giovinazzi,alfa,,,19,37,1:31.826,kph,230.954,2020,5
+63,18,18,0,15,51,+1 Lap,russell,williams,,,17,50,1:31.408,kph,232.010,2020,5
+6,19,19,0,18,51,+1 Lap,latifi,williams,,,5,48,1:29.950,kph,235.770,2020,5
+20,20,R,0,17,43,Retired,kevin_magnussen,haas,,,20,39,1:31.830,kph,230.944,2020,5
 1,1,1,9,7,75,Finished,emerson_fittipaldi,team_lotus,6498700,1:48:18.7,,,,,,1973,4
 4,2,2,6,3,75,Finished,cevert,tyrrell,6541400,+42.7,,,,,,1973,4
 20,3,3,4,14,75,Finished,follmer,shadow,6571800,+1:13.1,,,,,,1973,4
@@ -14828,6 +14988,26 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 23,28,F,0,0,0,Did not qualify,martini,minardi,,,,,,,,1988,11
 33,29,F,0,0,0,Did not qualify,modena,eurobrun,,,,,,,,1988,11
 4,30,F,0,0,0,Did not qualify,bailey,tyrrell,,,,,,,,1988,11
+11,1,1,25,5,87,Finished,perez,racing_point,5475114,1:31:15.114,3,69,0:56.789,kph,224.599,2020,16
+31,2,2,18,11,87,Finished,ocon,renault,5485632,+10.518,12,75,0:57.350,kph,222.402,2020,16
+18,3,3,15,10,87,Finished,stroll,racing_point,5486983,+11.869,14,85,0:57.388,kph,222.255,2020,16
+55,4,4,12,8,87,Finished,sainz,mclaren,5487694,+12.580,9,80,0:57.165,kph,223.122,2020,16
+3,5,5,10,7,87,Finished,ricciardo,renault,5488444,+13.330,6,57,0:56.979,kph,223.850,2020,16
+23,6,6,8,12,87,Finished,albon,red_bull,5488956,+13.842,8,52,0:57.056,kph,223.548,2020,16
+26,7,7,6,6,87,Finished,kvyat,alphatauri,5489648,+14.534,7,80,0:57.001,kph,223.764,2020,16
+77,8,8,4,1,87,Finished,bottas,mercedes,5490503,+15.389,2,60,0:56.563,kph,225.497,2020,16
+63,9,9,3,2,87,Finished,russell,mercedes,5493670,+18.556,1,80,0:55.404,kph,230.214,2020,16
+4,10,10,1,19,87,Finished,norris,mclaren,5494655,+19.541,11,85,0:57.270,kph,222.713,2020,16
+10,11,11,0,9,87,Finished,gasly,alphatauri,5495641,+20.527,10,53,0:57.220,kph,222.908,2020,16
+5,12,12,0,13,87,Finished,vettel,ferrari,5497725,+22.611,5,56,0:56.905,kph,224.141,2020,16
+99,13,13,0,14,87,Finished,giovinazzi,alfa,5499225,+24.111,4,56,0:56.887,kph,224.212,2020,16
+7,14,14,0,18,87,Finished,raikkonen,alfa,5501267,+26.153,13,56,0:57.375,kph,222.305,2020,16
+20,15,15,0,15,87,Finished,kevin_magnussen,haas,5507484,+32.370,16,57,0:57.516,kph,221.760,2020,16
+89,16,16,0,17,87,Finished,aitken,williams,5508788,+33.674,15,56,0:57.392,kph,222.240,2020,16
+51,17,17,0,20,87,Finished,pietro_fittipaldi,haas,5511972,+36.858,17,56,0:57.742,kph,220.892,2020,16
+6,18,R,0,16,52,Engine,latifi,williams,,,18,29,0:58.206,kph,219.132,2020,16
+33,19,R,0,3,0,Accident,max_verstappen,red_bull,,,,,,,,2020,16
+16,20,R,0,4,0,Collision,leclerc,ferrari,,,,,,,,2020,16
 5,1,1,10,1,62,Finished,michael_schumacher,ferrari,5466486,1:31:06.486,2,19,1:24.624,kph,210.961,2006,4
 1,2,2,8,5,62,Finished,alonso,renault,5468582,+2.096,1,23,1:24.569,kph,211.098,2006,4
 4,3,3,6,7,62,Finished,montoya,mclaren,5482354,+15.868,4,22,1:25.096,kph,209.791,2006,4
@@ -15021,8 +15201,8 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 4,2,2,6,3,64,Finished,fagioli,alfa,10698500,+25.7,,,,,,1950,6
 14,3,3,4,18,61,+3 Laps,whitehead,ferrari,,,,,,,,1950,6
 44,4,4,3,12,61,+3 Laps,manzon,simca,,,,,,,,1950,6
-16,5,5,1,4,59,+5 Laps,etancelin,lago,,,,,,,,1950,6
 16,5,5,1,4,59,+5 Laps,chaboud,lago,,,,,,,,1950,6
+16,5,5,1,4,59,+5 Laps,etancelin,lago,,,,,,,,1950,6
 26,6,6,0,15,56,+8 Laps,rosier,lago,,,,,,,,1950,6
 26,6,6,0,15,56,+8 Laps,pozzi,lago,,,,,,,,1950,6
 2,7,7,0,2,55,Fuel pump,farina,alfa,,,,,,,,1950,6
@@ -15376,8 +15556,8 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 56,16,16,0,18,69,+6 Laps,beaufort,porsche,,,,,,,,1961,5
 52,17,17,0,22,58,+17 Laps,seidel,lotus-climax,,,,,,,,1961,5
 18,18,R,0,8,62,Oil leak,clark,lotus-climax,,,,,,,,1961,5
-26,19,D,0,20,56,Disqualified,fairman,ferguson,,,,,,,,1961,5
 26,19,D,0,20,56,Disqualified,moss,ferguson,,,,,,,,1961,5
+26,19,D,0,20,56,Disqualified,fairman,ferguson,,,,,,,,1961,5
 32,20,R,0,30,45,Gearbox,bianchi,lotus-climax,,,,,,,,1961,5
 28,21,R,0,5,44,Brakes,moss,lotus-climax,,,,,,,,1961,5
 20,22,R,0,11,43,Engine,hill,brm,,,,,,,,1961,5
@@ -15711,12 +15891,32 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 10,28,F,0,0,0,Did not qualify,schneider,zakspeed,,,,,,,,1988,10
 4,29,F,0,0,0,Did not qualify,bailey,tyrrell,,,,,,,,1988,10
 9,30,F,0,0,0,Did not qualify,ghinzani,zakspeed,,,,,,,,1988,10
+33,1,1,25,1,55,Finished,max_verstappen,red_bull,5788645,1:36:28.645,2,14,1:40.958,kph,198.046,2020,17
+77,2,2,18,2,55,Finished,bottas,mercedes,5804621,+15.976,3,40,1:41.131,kph,197.707,2020,17
+44,3,3,15,3,55,Finished,hamilton,mercedes,5807060,+18.415,5,37,1:41.420,kph,197.144,2020,17
+23,4,4,12,5,55,Finished,albon,red_bull,5808632,+19.987,4,42,1:41.227,kph,197.520,2020,17
+4,5,5,10,4,55,Finished,norris,mclaren,5849374,+1:00.729,12,53,1:41.964,kph,196.092,2020,17
+55,6,6,8,6,55,Finished,sainz,mclaren,5854307,+1:05.662,11,48,1:41.947,kph,196.125,2020,17
+3,7,7,7,11,55,Finished,ricciardo,renault,5862393,+1:13.748,1,55,1:40.926,kph,198.109,2020,17
+10,8,8,4,9,55,Finished,gasly,alphatauri,5878363,+1:29.718,15,53,1:42.474,kph,195.116,2020,17
+31,9,9,2,10,55,Finished,ocon,renault,5799996,+1:41.069,18,47,1:42.894,kph,194.320,2020,17
+18,10,10,1,8,55,Finished,stroll,racing_point,5790314,+1:42.738,9,41,1:41.866,kph,196.281,2020,17
+26,11,11,0,7,54,+1 Lap,kvyat,alphatauri,,,17,47,1:42.704,kph,194.679,2020,17
+7,12,12,0,15,54,+1 Lap,raikkonen,alfa,,,14,53,1:42.148,kph,195.739,2020,17
+16,13,13,0,12,54,+1 Lap,leclerc,ferrari,,,10,24,1:41.908,kph,196.200,2020,17
+5,14,14,0,13,54,+1 Lap,vettel,ferrari,,,6,37,1:41.475,kph,197.037,2020,17
+63,15,15,0,16,54,+1 Lap,russell,williams,,,20,54,1:43.328,kph,193.504,2020,17
+99,16,16,0,14,54,+1 Lap,giovinazzi,alfa,,,7,29,1:41.675,kph,196.650,2020,17
+6,17,17,0,18,54,+1 Lap,latifi,williams,,,16,49,1:42.497,kph,195.073,2020,17
+20,18,18,0,20,54,+1 Lap,kevin_magnussen,haas,,,13,50,1:41.999,kph,196.025,2020,17
+51,19,19,0,17,53,+2 Laps,pietro_fittipaldi,haas,,,8,50,1:41.707,kph,196.588,2020,17
+11,20,R,0,19,8,Transmission,perez,racing_point,,,19,6,1:43.263,kph,193.625,2020,17
 10,1,1,9,2,36,Finished,fangio,mercedes,9569000,2:39:29.0,,,,,,1955,4
 14,2,2,6,3,36,Finished,moss,mercedes,9577100,+8.1,,,,,,1955,4
 2,3,3,4,4,36,Finished,farina,ferrari,9669500,+1:40.5,,,,,,1955,4
 6,4,4,3,8,36,Finished,frere,ferrari,9774500,+3:25.5,,,,,,1955,4
-24,5,5,1,13,35,+1 Lap,behra,maserati,,,,,,,,1955,4
 24,5,5,1,13,35,+1 Lap,mieres,maserati,,,,,,,,1955,4
+24,5,5,1,13,35,+1 Lap,behra,maserati,,,,,,,,1955,4
 4,6,6,0,10,35,+1 Lap,trintignant,ferrari,,,,,,,,1955,4
 22,7,7,0,7,34,+2 Laps,musso,maserati,,,,,,,,1955,4
 26,8,8,0,11,33,+3 Laps,perdisa,maserati,,,,,,,,1955,4
@@ -15810,6 +16010,26 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 3,21,R,0,3,6,Oil pump,ickx,ferrari,,,,,,,,1973,5
 26,22,R,0,17,6,Engine,galli,iso_marlboro,,,,,,,,1973,5
 23,23,R,0,13,4,Accident,hailwood,surtees,,,,,,,,1973,5
+44,1,1,25,1,52,Finished,hamilton,mercedes,5281283,1:28:01.283,3,45,1:29.238,kph,237.652,2020,4
+33,2,2,19,3,52,Finished,max_verstappen,red_bull,5287139,+5.856,1,52,1:27.097,kph,243.494,2020,4
+16,3,3,15,4,52,Finished,leclerc,ferrari,5299757,+18.474,9,49,1:29.813,kph,236.130,2020,4
+3,4,4,12,8,52,Finished,ricciardo,renault,5300933,+19.650,5,49,1:29.482,kph,237.004,2020,4
+4,5,5,10,5,52,Finished,norris,mclaren,5303560,+22.277,12,41,1:30.058,kph,235.488,2020,4
+31,6,6,8,9,52,Finished,ocon,renault,5308220,+26.937,6,50,1:29.491,kph,236.980,2020,4
+10,7,7,6,11,52,Finished,gasly,alphatauri,5312471,+31.188,7,52,1:29.603,kph,236.684,2020,4
+23,8,8,4,12,52,Finished,albon,red_bull,5313953,+32.670,2,52,1:28.689,kph,239.123,2020,4
+18,9,9,2,6,52,Finished,stroll,racing_point,5318594,+37.311,13,44,1:30.475,kph,234.402,2020,4
+5,10,10,1,10,52,Finished,vettel,ferrari,5323140,+41.857,15,44,1:30.537,kph,234.242,2020,4
+77,11,11,0,2,52,Finished,bottas,mercedes,5323450,+42.167,4,41,1:29.265,kph,237.580,2020,4
+63,12,12,0,20,52,Finished,russell,williams,5333287,+52.004,16,41,1:30.862,kph,233.404,2020,4
+55,13,13,0,7,52,Finished,sainz,mclaren,5334653,+53.370,10,47,1:29.948,kph,235.776,2020,4
+99,14,14,0,15,52,Finished,giovinazzi,alfa,5335488,+54.205,17,49,1:30.977,kph,233.109,2020,4
+6,15,15,0,18,52,Finished,latifi,williams,5335832,+54.549,14,44,1:30.501,kph,234.335,2020,4
+8,16,16,0,17,52,Finished,grosjean,haas,5336333,+55.050,8,49,1:29.782,kph,236.212,2020,4
+7,17,17,0,16,51,+1 Lap,raikkonen,alfa,,,11,49,1:29.973,kph,235.710,2020,4
+26,18,R,0,19,11,Accident,kvyat,alphatauri,,,18,11,1:32.443,kph,229.412,2020,4
+20,19,R,0,14,1,Collision,kevin_magnussen,haas,,,,,,,,2020,4
+27,20,W,0,13,0,Power Unit,hulkenberg,racing_point,,,,,,,,2020,4
 1,1,1,25,1,78,Finished,vettel,red_bull,7778373,2:09:38.373,2,78,1:16.267,kph,157.656,2011,6
 5,2,2,18,4,78,Finished,alonso,ferrari,7779511,+1.138,4,77,1:16.471,kph,157.236,2011,6
 4,3,3,15,2,78,Finished,button,mclaren,7780751,+2.378,3,78,1:16.463,kph,157.252,2011,6
@@ -16073,8 +16293,8 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 10,4,4,1.5,11,92,+6 Laps,gerini,maserati,,,,,,,,1956,1
 10,4,4,1.5,11,92,+6 Laps,landi,maserati,,,,,,,,1956,1
 38,5,5,2,10,91,+7 Laps,gendebien,ferrari,,,,,,,,1956,1
-16,6,6,0,13,88,+10 Laps,oscar_gonzalez,maserati,,,,,,,,1956,1
 16,6,6,0,13,88,+10 Laps,uria,maserati,,,,,,,,1956,1
+16,6,6,0,13,88,+10 Laps,oscar_gonzalez,maserati,,,,,,,,1956,1
 2,7,R,0,7,81,Engine,moss,maserati,,,,,,,,1956,1
 36,8,R,0,9,58,Accident,collins,ferrari,,,,,,,,1956,1
 8,9,R,0,12,57,Accident,piotti,maserati,,,,,,,,1956,1
@@ -16400,8 +16620,8 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 34,9,R,0,13,74,Clutch,jack_brabham,cooper,,,,,,,,1957,5
 4,10,R,0,2,69,Clutch,behra,maserati,,,,,,,,1957,5
 12,11,R,0,8,53,Water leak,collins,ferrari,,,,,,,,1957,5
-18,12,R,0,1,51,Engine,brooks,vanwall,,,,,,,,1957,5
 18,12,R,0,1,51,Engine,moss,vanwall,,,,,,,,1957,5
+18,12,R,0,1,51,Engine,brooks,vanwall,,,,,,,,1957,5
 2,13,R,0,4,49,Engine,fangio,maserati,,,,,,,,1957,5
 24,14,R,0,16,46,Engine,fairman,brm,,,,,,,,1957,5
 26,15,R,0,12,44,Engine,leston,brm,,,,,,,,1957,5
@@ -16559,16 +16779,16 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 16,2,2,6,12,200,Finished,cross,kurtis_kraft,14192560,+3:30.87,,,,,,1953,2
 3,3,3,2,9,200,Finished,darter,kurtis_kraft,14233190,+4:11.50,,,,,,1953,2
 3,3,3,2,9,200,Finished,hanks,kurtis_kraft,14233190,+4:11.50,,,,,,1953,2
-59,4,4,1.5,2,200,Finished,agabashian,kurtis_kraft,14260930,+4:39.24,,,,,,1953,2
 59,4,4,1.5,2,200,Finished,paul_russo,kurtis_kraft,14260930,+4:39.24,,,,,,1953,2
+59,4,4,1.5,2,200,Finished,agabashian,kurtis_kraft,14260930,+4:39.24,,,,,,1953,2
 5,5,5,2,3,200,Finished,mcgrath,kurtis_kraft,14451330,+7:49.64,,,,,,1953,2
 48,6,6,0,21,200,Finished,daywalt,kurtis_kraft,14471900,+8:10.21,,,,,,1953,2
 2,7,7,0,25,200,Finished,johnson,kurtis_kraft,14507710,+8:46.02,,,,,,1953,2
 2,7,7,0,25,200,Finished,rathmann,kurtis_kraft,14507710,+8:46.02,,,,,,1953,2
 12,8,8,0,20,200,Finished,mccoy,stevens,14586240,+10:04.55,,,,,,1953,2
-98,9,9,0,6,196,Accident,bettenhausen,kuzma,,,,,,,,1953,2
 98,9,9,0,6,196,Accident,stevenson,kuzma,,,,,,,,1953,2
 98,9,9,0,6,196,Accident,hartley,kuzma,,,,,,,,1953,2
+98,9,9,0,6,196,Accident,bettenhausen,kuzma,,,,,,,,1953,2
 53,10,10,0,32,193,+7 Laps,davies,kurtis_kraft,,,,,,,,1953,2
 9,11,11,0,26,191,Accident,nalon,kurtis_kraft,,,,,,,,1953,2
 73,12,12,0,19,190,+10 Laps,bob_scott,kurtis_kraft,,,,,,,,1953,2
@@ -16577,14 +16797,14 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 8,14,14,0,31,183,+17 Laps,bryan,schroeder,,,,,,,,1953,2
 49,15,15,0,28,177,Magneto,rathmann,kurtis_kraft,,,,,,,,1953,2
 49,15,15,0,28,177,Magneto,holland,kurtis_kraft,,,,,,,,1953,2
+92,16,16,0,10,177,Axle,ward,kurtis_kraft,,,,,,,,1953,2
 92,16,16,0,10,177,Axle,linden,kurtis_kraft,,,,,,,,1953,2
 92,16,16,0,10,177,Axle,dinsmore,kurtis_kraft,,,,,,,,1953,2
-92,16,16,0,10,177,Axle,ward,kurtis_kraft,,,,,,,,1953,2
 23,17,17,0,14,176,+24 Laps,faulkner,kurtis_kraft,,,,,,,,1953,2
 23,17,17,0,14,176,+24 Laps,mantz,kurtis_kraft,,,,,,,,1953,2
 22,18,R,0,22,169,Oil leak,teague,kurtis_kraft,,,,,,,,1953,2
 62,19,R,0,18,166,Oil leak,thomson,kurtis_kraft,,,,,,,,1953,2
-62,19,R,0,18,166,Oil leak,holmes,kurtis_kraft,,,,,,,,1953,2
+62,19,R,0,18,166,Oil leak,webb,kurtis_kraft,,,,,,,,1953,2
 1,1,1,25,1,70,Finished,vettel,red_bull,5529143,1:32:09.143,5,55,1:16.561,kph,205.060,2013,7
 3,2,2,18,6,70,Finished,alonso,ferrari,5543551,+14.408,2,69,1:16.203,kph,206.023,2013,7
 10,3,3,15,2,70,Finished,hamilton,mercedes,5545085,+15.942,3,69,1:16.354,kph,205.615,2013,7
@@ -17179,6 +17399,26 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 19,23,R,0,13,4,Clutch,fabi,toleman,,,,,,,,1985,6
 9,24,R,0,20,3,Turbo,manfred_winkelhock,ram,,,,,,,,1985,6
 24,25,R,0,22,0,Accident,ghinzani,osella,,,,,,,,1985,6
+10,1,1,25,10,53,Finished,gasly,alphatauri,6426056,1:47:06.056,6,34,1:24.037,kph,248.162,2020,8
+55,2,2,18,3,53,Finished,sainz,mclaren,6426471,+0.415,2,40,1:23.882,kph,248.620,2020,8
+18,3,3,15,8,53,Finished,stroll,racing_point,6429414,+3.358,3,42,1:23.897,kph,248.576,2020,8
+4,4,4,12,6,53,Finished,norris,mclaren,6432056,+6.000,7,50,1:24.232,kph,247.587,2020,8
+77,5,5,10,2,53,Finished,bottas,mercedes,6433164,+7.108,5,51,1:23.961,kph,248.386,2020,8
+3,6,6,8,7,53,Finished,ricciardo,renault,6434447,+8.391,4,38,1:23.898,kph,248.573,2020,8
+44,7,7,7,1,53,Finished,hamilton,mercedes,6443301,+17.245,1,34,1:22.746,kph,252.033,2020,8
+31,8,8,4,12,53,Finished,ocon,renault,6444747,+18.691,11,52,1:24.490,kph,246.831,2020,8
+26,9,9,2,11,53,Finished,kvyat,alphatauri,6448264,+22.208,10,44,1:24.479,kph,246.863,2020,8
+11,10,10,1,4,53,Finished,perez,racing_point,6449280,+23.224,8,50,1:24.336,kph,247.282,2020,8
+6,11,11,0,20,53,Finished,latifi,williams,6458932,+32.876,16,39,1:24.999,kph,245.353,2020,8
+8,12,12,0,16,53,Finished,grosjean,haas,6461220,+35.164,12,48,1:24.785,kph,245.972,2020,8
+7,13,13,0,14,53,Finished,raikkonen,alfa,6462368,+36.312,13,29,1:24.835,kph,245.827,2020,8
+63,14,14,0,19,53,Finished,russell,williams,6462649,+36.593,9,39,1:24.421,kph,247.033,2020,8
+23,15,15,0,9,53,Finished,albon,red_bull,6463589,+37.533,15,48,1:24.926,kph,245.564,2020,8
+99,16,16,0,18,53,Finished,giovinazzi,alfa,6481255,+55.199,14,43,1:24.856,kph,245.766,2020,8
+33,17,R,0,5,30,Power Unit,max_verstappen,red_bull,,,17,10,1:25.539,kph,243.804,2020,8
+16,18,R,0,13,23,Accident,leclerc,ferrari,,,19,19,1:26.026,kph,242.424,2020,8
+20,19,R,0,15,17,Power Unit,kevin_magnussen,haas,,,18,10,1:25.787,kph,243.099,2020,8
+5,20,R,0,17,6,Brakes,vettel,ferrari,,,20,4,1:27.107,kph,239.415,2020,8
 8,1,1,9,3,67,Finished,revson,mclaren,5358500,1:29:18.5,,,,,,1973,9
 2,2,2,6,1,67,Finished,peterson,team_lotus,5361300,+2.8,,,,,,1973,9
 7,3,3,4,2,67,Finished,hulme,mclaren,5361500,+3.0,,,,,,1973,9
@@ -18380,10 +18620,10 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 10,4,4,3,13,102,+3 Laps,lewis-evans,connaught,,,,,,,,1957,2
 30,5,5,2,6,100,+5 Laps,trintignant,ferrari,,,,,,,,1957,2
 14,6,6,0,15,100,+5 Laps,jack_brabham,cooper,,,,,,,,1957,2
-24,7,R,0,9,95,Engine,hawthorn,ferrari,,,,,,,,1957,2
 24,7,R,0,9,95,Engine,trips,ferrari,,,,,,,,1957,2
-34,8,R,0,14,64,Oil leak,schell,maserati,,,,,,,,1957,2
+24,7,R,0,9,95,Engine,hawthorn,ferrari,,,,,,,,1957,2
 34,8,R,0,14,64,Oil leak,scarlatti,maserati,,,,,,,,1957,2
+34,8,R,0,14,64,Oil leak,schell,maserati,,,,,,,,1957,2
 6,9,R,0,11,60,Engine,flockhart,brm,,,,,,,,1957,2
 36,10,R,0,7,51,Spun off,menditeguy,maserati,,,,,,,,1957,2
 12,11,R,0,16,47,Fuel leak,bueb,connaught,,,,,,,,1957,2
@@ -18773,8 +19013,8 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 9,7,7,0,15,95,+6 Laps,perdisa,maserati,,,,,,,,1956,6
 10,8,8,0,25,94,+7 Laps,godia,maserati,,,,,,,,1956,6
 15,9,9,0,18,94,+7 Laps,manzon,gordini,,,,,,,,1956,6
-3,10,10,0,8,92,+9 Laps,castellotti,ferrari,,,,,,,,1956,6
 3,10,10,0,8,92,+9 Laps,portago,ferrari,,,,,,,,1956,6
+3,10,10,0,8,92,+9 Laps,castellotti,ferrari,,,,,,,,1956,6
 26,11,11,0,22,88,+13 Laps,gerard,cooper,,,,,,,,1956,6
 7,12,R,1,1,94,Axle,moss,maserati,,,,,,,,1956,6
 16,13,R,0,5,87,Fuel system,schell,vanwall,,,,,,,,1956,6
@@ -19036,10 +19276,10 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 18,18,R,0,20,19,Overheating,stacey,team_lotus,,,,,,,,1958,7
 16,19,R,0,14,17,Overheating,hill,team_lotus,,,,,,,,1958,7
 14,20,R,0,19,7,Ignition,fairman,connaught,,,,,,,,1958,7
-8,1,1,5,7,77,Finished,fangio,alfa,12131000,3:22:11.0,,,,,,1951,4
 8,1,1,4,7,77,Finished,fagioli,alfa,12131000,3:22:11.0,,,,,,1951,4
-14,2,2,3,6,77,Finished,gonzalez,ferrari,12189200,+58.2,,,,,,1951,4
+8,1,1,5,7,77,Finished,fangio,alfa,12131000,3:22:11.0,,,,,,1951,4
 14,2,2,3,6,77,Finished,ascari,ferrari,12189200,+58.2,,,,,,1951,4
+14,2,2,3,6,77,Finished,gonzalez,ferrari,12189200,+58.2,,,,,,1951,4
 10,3,3,4,4,74,+3 Laps,villoresi,ferrari,,,,,,,,1951,4
 26,4,4,3,9,73,+4 Laps,reg_parnell,ferrari,,,,,,,,1951,4
 2,5,5,2,2,73,+4 Laps,farina,alfa,,,,,,,,1951,4
@@ -19151,13 +19391,13 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 11,7,7,6,4,69,+1 Lap,perez,racing_point,,,10,39,1:20.090,kph,196.923,2020,3
 3,8,8,4,11,69,+1 Lap,ricciardo,renault,,,7,46,1:19.532,kph,198.305,2020,3
 55,9,9,2,9,69,+1 Lap,sainz,mclaren,,,15,68,1:20.477,kph,195.976,2020,3
-20,10,10,1,16,69,+1 Lap,kevin_magnussen,haas,,,6,67,1:19.457,kph,198.492,2020,3
+20,10,10,1,0,69,+1 Lap,kevin_magnussen,haas,,,6,67,1:19.457,kph,198.492,2020,3
 16,11,11,0,6,69,+1 Lap,leclerc,ferrari,,,16,64,1:20.821,kph,195.142,2020,3
 26,12,12,0,17,69,+1 Lap,kvyat,alphatauri,,,18,51,1:20.946,kph,194.841,2020,3
 4,13,13,0,8,69,+1 Lap,norris,mclaren,,,8,42,1:19.945,kph,197.280,2020,3
 31,14,14,0,14,69,+1 Lap,ocon,renault,,,13,40,1:20.261,kph,196.503,2020,3
 7,15,15,0,20,69,+1 Lap,raikkonen,alfa,,,17,67,1:20.889,kph,194.978,2020,3
-8,16,16,0,18,69,+1 Lap,grosjean,haas,,,12,61,1:20.232,kph,196.574,2020,3
+8,16,16,0,0,69,+1 Lap,grosjean,haas,,,12,61,1:20.232,kph,196.574,2020,3
 99,17,17,0,19,69,+1 Lap,giovinazzi,alfa,,,11,44,1:20.096,kph,196.908,2020,3
 63,18,18,0,12,69,+1 Lap,russell,williams,,,9,67,1:19.984,kph,197.184,2020,3
 6,19,19,0,15,65,+5 Laps,latifi,williams,,,19,64,1:21.198,kph,194.236,2020,3
@@ -19182,6 +19422,26 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 2,18,R,0,1,5,Wheel,peterson,team_lotus,,,,,,,,1973,2
 18,19,R,0,11,5,Overheating,wilson_fittipaldi,brabham,,,,,,,,1973,2
 8,20,R,0,12,3,Gearbox,revson,mclaren,,,,,,,,1973,2
+77,1,1,26,3,53,Finished,bottas,mercedes,5640364,1:34:00.364,1,51,1:37.030,kph,216.972,2020,10
+33,2,2,18,2,53,Finished,max_verstappen,red_bull,5648093,+7.729,3,53,1:37.332,kph,216.298,2020,10
+44,3,3,15,1,53,Finished,hamilton,mercedes,5663093,+22.729,7,48,1:38.075,kph,214.660,2020,10
+11,4,4,12,4,53,Finished,perez,racing_point,5670922,+30.558,8,52,1:38.141,kph,214.515,2020,10
+3,5,5,10,5,53,Finished,ricciardo,renault,5692429,+52.065,6,53,1:37.886,kph,215.074,2020,10
+16,6,6,8,10,53,Finished,leclerc,ferrari,5702550,+1:02.186,11,47,1:39.053,kph,212.540,2020,10
+31,7,7,6,7,53,Finished,ocon,renault,5708370,+1:08.006,13,48,1:39.216,kph,212.191,2020,10
+26,8,8,4,11,53,Finished,kvyat,alphatauri,5709104,+1:08.740,12,48,1:39.133,kph,212.369,2020,10
+10,9,9,2,9,53,Finished,gasly,alphatauri,5730130,+1:29.766,2,50,1:37.231,kph,216.523,2020,10
+23,10,10,1,15,53,Finished,albon,red_bull,5738224,+1:37.860,9,51,1:38.377,kph,214.001,2020,10
+99,11,11,0,17,52,+1 Lap,giovinazzi,alfa,,,16,44,1:39.766,kph,211.021,2020,10
+20,12,12,0,18,52,+1 Lap,kevin_magnussen,haas,,,17,52,1:40.380,kph,209.731,2020,10
+5,13,13,0,14,52,+1 Lap,vettel,ferrari,,,14,46,1:39.588,kph,211.398,2020,10
+7,14,14,0,19,52,+1 Lap,raikkonen,alfa,,,10,37,1:38.858,kph,212.960,2020,10
+4,15,15,0,8,52,+1 Lap,norris,mclaren,,,5,50,1:37.377,kph,216.198,2020,10
+6,16,16,0,20,52,+1 Lap,latifi,williams,,,18,47,1:41.044,kph,208.352,2020,10
+8,17,17,0,16,52,+1 Lap,grosjean,haas,,,15,44,1:39.614,kph,211.343,2020,10
+63,18,18,0,13,52,+1 Lap,russell,williams,,,4,52,1:37.352,kph,216.254,2020,10
+55,19,R,0,6,0,Accident,sainz,mclaren,,,,,,,,2020,10
+18,20,R,0,12,0,Collision,stroll,racing_point,,,,,,,,2020,10
 6,1,1,25,2,78,Finished,rosberg,mercedes,6558420,1:49:18.420,2,76,1:18.599,kph,152.841,2015,6
 5,2,2,18,3,78,Finished,vettel,ferrari,6562906,+4.486,4,75,1:18.854,kph,152.347,2015,6
 44,3,3,15,1,78,Finished,hamilton,mercedes,6564473,+6.053,3,42,1:18.676,kph,152.692,2015,6
@@ -19229,8 +19489,8 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 10,2,2,3,2,200,Finished,paul_russo,kurtis_kraft,14203090,+2:43.56,,,,,,1955,3
 15,3,3,4,10,200,Finished,davies,kurtis_kraft,14251890,+3:32.36,,,,,,1955,3
 44,4,4,3,33,200,Finished,thomson,kuzma,14258440,+3:38.91,,,,,,1955,3
-77,5,5,1,7,200,Finished,homeier,kurtis_kraft,14356700,+5:17.17,,,,,,1955,3
 77,5,5,1,7,200,Finished,faulkner,kurtis_kraft,14356700,+5:17.17,,,,,,1955,3
+77,5,5,1,7,200,Finished,homeier,kurtis_kraft,14356700,+5:17.17,,,,,,1955,3
 19,6,6,0,8,200,Finished,linden,kurtis_kraft,14397470,+5:57.94,,,,,,1955,3
 71,7,7,0,16,200,Finished,herman,kurtis_kraft,14423770,+6:24.24,,,,,,1955,3
 29,8,8,0,19,200,Finished,connor,kurtis_kraft,14441130,+6:41.60,,,,,,1955,3
@@ -19423,9 +19683,9 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 3,9,9,2,6,78,Finished,ricciardo,renault,6269331,+1:00.894,4,78,1:15.697,kph,158.701,2019,6
 8,10,10,1,13,78,Finished,grosjean,haas,6269471,+1:01.034,16,41,1:16.746,kph,156.531,2019,6
 4,11,11,0,12,78,Finished,norris,mclaren,6275238,+1:06.801,13,61,1:16.413,kph,157.214,2019,6
-20,12,12,0,5,77,+1 Lap,kevin_magnussen,haas,,,17,61,1:16.992,kph,156.031,2019,6
-11,13,13,0,16,77,+1 Lap,perez,racing_point,,,15,67,1:16.613,kph,156.803,2019,6
-27,14,14,0,11,77,+1 Lap,hulkenberg,renault,,,8,65,1:16.276,kph,157.496,2019,6
+11,12,12,0,16,77,+1 Lap,perez,racing_point,,,15,67,1:16.613,kph,156.803,2019,6
+27,13,13,0,11,77,+1 Lap,hulkenberg,renault,,,8,65,1:16.276,kph,157.496,2019,6
+20,14,14,0,5,77,+1 Lap,kevin_magnussen,haas,,,17,61,1:16.992,kph,156.031,2019,6
 63,15,15,0,19,77,+1 Lap,russell,williams,,,18,76,1:17.038,kph,155.938,2019,6
 18,16,16,0,17,77,+1 Lap,stroll,racing_point,,,12,45,1:16.379,kph,157.284,2019,6
 7,17,17,0,14,77,+1 Lap,raikkonen,alfa,,,14,50,1:16.436,kph,157.166,2019,6
@@ -19806,8 +20066,8 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 28,1,1,8,2,70,Finished,brooks,vanwall,7427800,2:03:47.8,,,,,,1958,10
 14,2,2,6,3,70,Finished,hawthorn,ferrari,7452000,+24.2,,,,,,1958,10
 18,3,3,5,7,70,Finished,phil_hill,ferrari,7456100,+28.3,,,,,,1958,10
-32,4,4,0,11,69,+1 Lap,shelby,maserati,,,,,,,,1958,10
 32,4,4,0,11,69,+1 Lap,gregory,maserati,,,,,,,,1958,10
+32,4,4,0,11,69,+1 Lap,shelby,maserati,,,,,,,,1958,10
 6,5,5,2,14,62,+8 Laps,salvadori,cooper,,,,,,,,1958,10
 38,6,6,0,12,62,+8 Laps,hill,team_lotus,,,,,,,,1958,10
 36,7,7,0,16,61,+9 Laps,allison,team_lotus,,,,,,,,1958,10
@@ -22819,8 +23079,8 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 16,29,F,0,0,0,Did not qualify,capelli,leyton,,,,,,,,1990,2
 15,30,F,0,0,0,Did not qualify,gugelmin,leyton,,,,,,,,1990,2
 18,1,1,8,1,22,Finished,fangio,mercedes,13545800,3:45:45.8,,,,,,1954,6
-1,2,2,3,5,22,Finished,gonzalez,ferrari,13642300,+1:36.5,,,,,,1954,6
 1,2,2,3,5,22,Finished,hawthorn,ferrari,13642300,+1:36.5,,,,,,1954,6
+1,2,2,3,5,22,Finished,gonzalez,ferrari,13642300,+1:36.5,,,,,,1954,6
 2,3,3,4,7,22,Finished,trintignant,ferrari,13854400,+5:08.6,,,,,,1954,6
 19,4,4,4,23,22,Finished,kling,mercedes,13912300,+6:06.5,,,,,,1954,6
 7,5,5,2,15,22,Finished,mantovani,maserati,14076300,+8:50.5,,,,,,1954,6
@@ -23149,6 +23409,26 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 26,15,R,0,7,9,Ignition,ginther,honda,,,,,,,,1965,4
 28,16,R,0,16,4,Ignition,bucknum,honda,,,,,,,,1965,4
 20,17,R,0,12,3,Accident,rindt,cooper-climax,,,,,,,,1965,4
+44,1,1,25,2,60,Finished,hamilton,mercedes,5749641,1:35:49.641,2,58,1:28.145,kph,210.253,2020,11
+33,2,2,19,3,60,Finished,max_verstappen,red_bull,5754111,+4.470,1,60,1:28.139,kph,210.267,2020,11
+3,3,3,15,6,60,Finished,ricciardo,renault,5764254,+14.613,3,53,1:29.584,kph,206.876,2020,11
+11,4,4,12,9,60,Finished,perez,racing_point,5765711,+16.070,4,58,1:29.700,kph,206.608,2020,11
+55,5,5,10,10,60,Finished,sainz,mclaren,5771546,+21.905,6,53,1:30.129,kph,205.625,2020,11
+10,6,6,8,12,60,Finished,gasly,alphatauri,5772407,+22.766,5,53,1:30.110,kph,205.668,2020,11
+16,7,7,6,4,60,Finished,leclerc,ferrari,5780455,+30.814,10,54,1:30.712,kph,204.303,2020,11
+27,8,8,4,20,60,Finished,hulkenberg,racing_point,5782237,+32.596,11,58,1:30.733,kph,204.256,2020,11
+8,9,9,2,16,60,Finished,grosjean,haas,5788722,+39.081,14,54,1:31.562,kph,202.407,2020,11
+99,10,10,1,14,60,Finished,giovinazzi,alfa,5789676,+40.035,12,38,1:30.909,kph,203.861,2020,11
+5,11,11,0,11,60,Finished,vettel,ferrari,5790451,+40.810,7,43,1:30.408,kph,204.990,2020,11
+7,12,12,0,19,60,Finished,raikkonen,alfa,5791117,+41.476,9,54,1:30.512,kph,204.755,2020,11
+20,13,13,0,15,60,Finished,kevin_magnussen,haas,5799226,+49.585,8,37,1:30.456,kph,204.881,2020,11
+6,14,14,0,18,60,Finished,latifi,williams,5804090,+54.449,13,39,1:31.377,kph,202.816,2020,11
+26,15,15,0,13,60,Finished,kvyat,alphatauri,5805229,+55.588,16,41,1:32.214,kph,200.975,2020,11
+4,16,R,0,8,42,Power Unit,norris,mclaren,,,17,40,1:32.328,kph,200.727,2020,11
+23,17,R,0,5,23,Radiator,albon,red_bull,,,18,9,1:32.330,kph,200.723,2020,11
+31,18,R,0,7,22,Gearbox,ocon,renault,,,19,21,1:33.189,kph,198.873,2020,11
+77,19,R,0,1,18,Power Unit,bottas,mercedes,,,15,8,1:31.884,kph,201.697,2020,11
+63,20,R,0,17,12,Collision,russell,williams,,,20,6,1:34.526,kph,196.060,2020,11
 44,1,1,25,1,70,Finished,hamilton,mercedes,5513145,1:31:53.145,3,64,1:17.472,kph,202.648,2015,7
 6,2,2,18,2,70,Finished,rosberg,mercedes,5515430,+2.285,5,63,1:17.637,kph,202.218,2015,7
 77,3,3,15,4,70,Finished,bottas,williams,5553811,+40.666,6,67,1:17.922,kph,201.478,2015,7
@@ -23223,14 +23503,14 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 20,22,F,0,0,0,Did not qualify,rosset,tyrrell,,,,,,,,1998,16
 44,1,1,8,9,100,Finished,trintignant,ferrari,10689800,2:58:09.8,,,,,,1955,2
 30,2,2,6,4,100,Finished,castellotti,lancia,10710000,+20.2,,,,,,1955,2
-34,3,3,2,5,99,+1 Lap,perdisa,maserati,,,,,,,,1955,2
 34,3,3,2,5,99,+1 Lap,behra,maserati,,,,,,,,1955,2
+34,3,3,2,5,99,+1 Lap,perdisa,maserati,,,,,,,,1955,2
 42,4,4,3,14,99,+1 Lap,farina,ferrari,,,,,,,,1955,2
 28,5,5,2,7,99,+1 Lap,villoresi,lancia,,,,,,,,1955,2
 32,6,6,0,19,95,+5 Laps,chiron,lancia,,,,,,,,1955,2
 10,7,7,0,20,91,+9 Laps,pollet,gordini,,,,,,,,1955,2
-48,8,8,0,15,86,+14 Laps,taruffi,ferrari,,,,,,,,1955,2
 48,8,8,0,15,86,+14 Laps,frere,ferrari,,,,,,,,1955,2
+48,8,8,0,15,86,+14 Laps,taruffi,ferrari,,,,,,,,1955,2
 16,9,9,0,3,81,+19 Laps,moss,mercedes,,,,,,,,1955,2
 40,10,R,0,11,86,Spun off,perdisa,maserati,,,,,,,,1955,2
 40,10,R,0,11,86,Spun off,behra,maserati,,,,,,,,1955,2
@@ -23433,8 +23713,8 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 20,11,11,0,14,37,+13 Laps,salvadori,cooper,,,,,,,,1958,6
 16,12,R,0,3,41,Overheating,schell,brm,,,,,,,,1958,6
 14,13,R,0,9,41,Fuel pump,behra,brm,,,,,,,,1958,6
-12,14,R,0,10,35,Engine,brooks,vanwall,,,,,,,,1958,6
 12,14,R,0,10,35,Engine,lewis-evans,vanwall,,,,,,,,1958,6
+12,14,R,0,10,35,Engine,brooks,vanwall,,,,,,,,1958,6
 24,15,R,0,19,33,Overheating,hill,team_lotus,,,,,,,,1958,6
 40,16,R,0,11,28,Accident,godia,maserati,,,,,,,,1958,6
 18,17,R,0,7,23,Fuel pump,trintignant,brm,,,,,,,,1958,6
@@ -24164,8 +24444,8 @@ number,position,positionText,points,grid,laps,status,driverId,constructorId,Time
 38,9,9,0,15,32,+4 Laps,wacker,gordini,,,,,,,,1953,4
 24,10,10,0,11,30,+6 Laps,frere,hwm,,,,,,,,1953,4
 40,11,11,0,18,29,+7 Laps,andre_pilette,connaught,,,,,,,,1953,4
-6,12,R,0,10,35,Accident,claes,maserati,,,,,,,,1953,4
 6,12,R,0,10,35,Accident,fangio,maserati,,,,,,,,1953,4
+6,12,R,0,10,35,Accident,claes,maserati,,,,,,,,1953,4
 22,13,R,0,17,19,Engine,macklin,hwm,,,,,,,,1953,4
 12,14,R,0,4,16,Engine,farina,ferrari,,,,,,,,1953,4
 4,15,R,0,1,13,Engine,fangio,maserati,,,,,,,,1953,4

@@ -1,16 +1,16 @@
 statusId,count,status
-1,6420,Finished
+1,6587,Finished
 2,142,Disqualified
-3,1024,Accident
-4,791,Collision
-5,2000,Engine
-6,793,Gearbox
-7,320,Transmission
+3,1030,Accident
+4,803,Collision
+5,2002,Engine
+6,796,Gearbox
+7,321,Transmission
 8,214,Clutch
 9,133,Hydraulics
 10,314,Electrical
-11,3576,+1 Lap
-12,1554,+2 Laps
+11,3640,+1 Lap
+12,1559,+2 Laps
 13,725,+3 Laps
 14,405,+4 Laps
 15,221,+5 Laps
@@ -19,29 +19,29 @@ statusId,count,status
 18,52,+8 Laps
 19,38,+9 Laps
 20,790,Spun off
-21,41,Radiator
+21,42,Radiator
 22,428,Suspension
-23,245,Brakes
+23,247,Brakes
 24,60,Differential
 25,130,Overheating
 26,26,Mechanical
 27,55,Tyre
 28,1,Driver Seat
-29,37,Puncture
+29,39,Puncture
 30,24,Driveshaft
-31,91,Retired
+31,92,Retired
 32,33,Fuel pressure
 33,4,Front wing
-34,5,Water pressure
+34,6,Water pressure
 35,1,Refuelling
 36,88,Wheel
 37,111,Throttle
 38,47,Steering
 39,4,Technical
-40,10,Electronics
+40,11,Electronics
 41,11,Broken wing
 42,19,Heat shield fire
-43,29,Exhaust
+43,30,Exhaust
 44,121,Oil leak
 45,18,+11 Laps
 46,3,Wheel rim
@@ -51,7 +51,7 @@ statusId,count,status
 50,7,+17 Laps
 51,87,Oil pressure
 53,13,+13 Laps
-54,242,Withdrew
+54,243,Withdrew
 55,12,+12 Laps
 56,1,Engine fire
 58,1,+26 Laps
@@ -126,9 +126,11 @@ statusId,count,status
 127,1,+20 Laps
 128,1,+42 Laps
 129,1,Engine misfire
-130,27,Collision damage
-131,28,Power Unit
+130,30,Collision damage
+131,33,Power Unit
 132,5,ERS
 135,1,Brake duct
 136,1,Seat
 137,1,Damage
+138,1,Debris
+139,1,Illness

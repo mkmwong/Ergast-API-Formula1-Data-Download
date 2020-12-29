@@ -348,6 +348,29 @@ season,round,url,raceName,date,circuitId,time
 1965,8,http://en.wikipedia.org/wiki/1965_Italian_Grand_Prix,Italian Grand Prix,1965-09-12,monza,
 1965,9,http://en.wikipedia.org/wiki/1965_United_States_Grand_Prix,United States Grand Prix,1965-10-03,watkins_glen,
 1965,10,http://en.wikipedia.org/wiki/1965_Mexican_Grand_Prix,Mexican Grand Prix,1965-10-24,rodriguez,
+2021,1,http://en.wikipedia.org/wiki/2021_Australian_Grand_Prix,Australian Grand Prix,2021-03-21,albert_park,05:10:00Z
+2021,2,http://en.wikipedia.org/wiki/2021_Bahrain_Grand_Prix,Bahrain Grand Prix,2021-03-28,bahrain,14:10:00Z
+2021,3,http://en.wikipedia.org/wiki/2021_Chinese_Grand_Prix,Chinese Grand Prix,2021-04-11,shanghai,06:10:00Z
+2021,4,http://en.wikipedia.org/wiki/2021_Formula_One_World_Championship,TBC,2021-04-25,nurburgring,
+2021,5,http://en.wikipedia.org/wiki/2021_Spanish_Grand_Prix,Spanish Grand Prix,2021-05-09,catalunya,13:10:00Z
+2021,6,http://en.wikipedia.org/wiki/2021_Monaco_Grand_Prix,Monaco Grand Prix,2021-05-23,monaco,13:10:00Z
+2021,7,http://en.wikipedia.org/wiki/2021_Azerbaijan_Grand_Prix,Azerbaijan Grand Prix,2021-06-06,BAK,12:10:00Z
+2021,8,http://en.wikipedia.org/wiki/2021_Canadian_Grand_Prix,Canadian Grand Prix,2021-06-13,villeneuve,19:10:00Z
+2021,9,http://en.wikipedia.org/wiki/2021_French_Grand_Prix,French Grand Prix,2021-06-27,ricard,13:10:00Z
+2021,10,http://en.wikipedia.org/wiki/2021_Austrian_Grand_Prix,Austrian Grand Prix,2021-07-04,red_bull_ring,13:10:00Z
+2021,11,http://en.wikipedia.org/wiki/2021_British_Grand_Prix,British Grand Prix,2021-07-18,silverstone,13:10:00Z
+2021,12,http://en.wikipedia.org/wiki/2021_Hungarian_Grand_Prix,Hungarian Grand Prix,2021-08-01,hungaroring,13:10:00Z
+2021,13,http://en.wikipedia.org/wiki/2021_Belgian_Grand_Prix,Belgian Grand Prix,2021-08-29,spa,13:10:00Z
+2021,14,http://en.wikipedia.org/wiki/2021_Dutch_Grand_Prix,Dutch Grand Prix,2021-09-05,zandvoort,13:10:00Z
+2021,15,http://en.wikipedia.org/wiki/2021_Italiian_Grand_Prix,Italian Grand Prix,2021-09-12,monza,13:10:00Z
+2021,16,http://en.wikipedia.org/wiki/2021_Russian_Grand_Prix,Russian Grand Prix,2021-09-26,sochi,11:10:00Z
+2021,17,http://en.wikipedia.org/wiki/2021_Singapore_Grand_Prix,Singapore Grand Prix,2021-10-03,marina_bay,12:10:00Z
+2021,18,http://en.wikipedia.org/wiki/2021_Japanese_Grand_Prix,Japanese Grand Prix,2021-10-10,suzuka,05:10:00Z
+2021,19,http://en.wikipedia.org/wiki/2021_United_States_Grand_Prix,United States Grand Prix,2021-10-24,americas,19:10:00Z
+2021,20,http://en.wikipedia.org/wiki/2021_Mexican_Grand_Prix,Mexico City Grand Prix,2021-10-31,rodriguez,19:10:00Z
+2021,21,http://en.wikipedia.org/wiki/2021_Brazilian_Grand_Prix,Brazilian Grand Prix,2021-11-14,interlagos,18:10:00Z
+2021,22,http://en.wikipedia.org/wiki/2021_Saudi_Arabian_Grand_Prix,Saudi Arabian Grand Prix,2021-11-28,jeddah,13:10:00Z
+2021,23,http://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix,Abu Dhabi Grand Prix,2021-12-05,yas_marina,13:10:00Z
 1973,1,http://en.wikipedia.org/wiki/1973_Argentine_Grand_Prix,Argentine Grand Prix,1973-01-28,galvez,
 1973,2,http://en.wikipedia.org/wiki/1973_Brazilian_Grand_Prix,Brazilian Grand Prix,1973-02-11,interlagos,
 1973,3,http://en.wikipedia.org/wiki/1973_South_African_Grand_Prix,South African Grand Prix,1973-03-03,kyalami,
@@ -387,7 +410,11 @@ season,round,url,raceName,date,circuitId,time
 2020,10,https://en.wikipedia.org/wiki/2020_Russian_Grand_Prix,Russian Grand Prix,2020-09-27,sochi,11:10:00Z
 2020,11,https://en.wikipedia.org/wiki/2020_Eifel_Grand_Prix,Eifel Grand Prix,2020-10-11,nurburgring,13:10:00Z
 2020,12,https://en.wikipedia.org/wiki/2020_Portuguese_Grand_Prix,Portuguese Grand Prix,2020-10-25,portimao,12:10:00Z
-2020,13,https://en.wikipedia.org/wiki/2020_Emilia_Romagna_Grand_Prix,Emilia Romagna Grand Prix,2020-11-01,imola,13:10:00Z
+2020,13,https://en.wikipedia.org/wiki/2020_Emilia_Romagna_Grand_Prix,Emilia Romagna Grand Prix,2020-11-01,imola,12:10:00Z
+2020,14,https://en.wikipedia.org/wiki/2020_Turkish_Grand_Prix,Turkish Grand Prix,2020-11-15,istanbul,10:10:00Z
+2020,15,https://en.wikipedia.org/wiki/2020_Bahrain_Grand_Prix,Bahrain Grand Prix,2020-11-29,bahrain,14:10:00Z
+2020,16,https://en.wikipedia.org/wiki/2020_Sakhir_Grand_Prix,Sakhir Grand Prix,2020-12-06,bahrain,17:10:00Z
+2020,17,https://en.wikipedia.org/wiki/2020_Abu_Dhabi_Grand_Prix,Abu Dhabi Grand Prix,2020-12-13,yas_marina,13:10:00Z
 1964,1,http://en.wikipedia.org/wiki/1964_Monaco_Grand_Prix,Monaco Grand Prix,1964-05-10,monaco,
 1964,2,http://en.wikipedia.org/wiki/1964_Dutch_Grand_Prix,Dutch Grand Prix,1964-05-24,zandvoort,
 1964,3,http://en.wikipedia.org/wiki/1964_Belgian_Grand_Prix,Belgian Grand Prix,1964-06-14,spa,
